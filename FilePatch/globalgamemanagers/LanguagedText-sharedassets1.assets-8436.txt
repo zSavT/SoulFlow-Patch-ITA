@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1325
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "K-küçük bir sı-sıyrık sadece..."
+ 1 string eng_Text = "È-È solo un-un piccolo graffio..."
+ 1 string fr_Text = "È-È solo un-un piccolo graffio..."
+ 1 string ch_Text = "这……这就是一……一处擦伤……"
+ 1 string tr_Answer1 = "Ne diyorsun Mikey sen!? Kolunda kocaman bir yara var. Nasıl oldu bu?"
+ 1 string eng_Answer1 = "Di cosa stai parlando Mikey?! Hai un'enorme ferita sul braccio! Come è successo?"
+ 1 string fr_Answer1 = "Di cosa stai parlando Mikey?! Hai un'enorme ferita sul braccio! Come è successo?"
+ 1 string ch_Answer1 = "你在说什么，米奇？你胳膊上的伤口很大啊！这是怎么回事？"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

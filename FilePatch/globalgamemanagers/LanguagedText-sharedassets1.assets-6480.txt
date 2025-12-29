@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1271
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Bunu söylemem doğru olmaz."
+ 1 string eng_Text = "Non sarebbe giusto per me dirlo."
+ 1 string fr_Text = "Pour moi ça ne serait pas juste de le dire."
+ 1 string ch_Text = "我不应该告诉你这些的。"
+ 1 string tr_Answer1 = "Kai, saçmalama. İnsanların evini dinlemişsin yoldan geçerken o sorun olmuyor da bana söylediğinde mi olacak?"
+ 1 string eng_Answer1 = "Kai, non essere sciocco. Va bene per te origliare, ma non va bene dirmelo?"
+ 1 string fr_Answer1 = "Kai, ne sois pas stupide. C'est normal que tu espionnes, mais pas que tu me le dises ?"
+ 1 string ch_Answer1 = "凯，别犯傻了。你能偷听，但是却不能把偷听的内容告诉我？"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

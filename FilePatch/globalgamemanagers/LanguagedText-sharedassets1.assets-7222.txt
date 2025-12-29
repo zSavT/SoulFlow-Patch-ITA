@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1424
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "William ile konuştuktan sonra William’ın ölmesi gibi oldukça açık bir kanıt var. Üstelik... William ile onun daha önceden büyük bir kavgaya tutuştuklarını öğrendim. "
+ 1 string eng_Text = "C'è una prova evidente come la morte di William dopo che lei ha parlato con William. Inoltre... ho saputo che all'epoca aveva avuto una grossa faida con William."
+ 1 string fr_Text = "Ci sono prove evidenti come la morte di William dopo che lei ha parlato con William. Inoltre... ho saputo che all'epoca aveva avuto una grossa faida con William."
+ 1 string ch_Text = "有很多显而易见的证据，比如她跟威廉说完话之后威廉就死了。而且……我知道布鲁斯和威廉过去大吵过一架。"
+ 1 string tr_Answer1 = "Neden durup dururken bana bunları anlatıp duruyorsun? Sana neden inanayım?"
+ 1 string eng_Answer1 = "Perché mi dici queste cose senza motivo? Perché dovrei crederti?"
+ 1 string fr_Answer1 = "Perché mi dici queste cose senza motivo? Perché dovrei crederti?"
+ 1 string ch_Answer1 = "你为什么无缘无故告诉我这些？我凭什么相信你？"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

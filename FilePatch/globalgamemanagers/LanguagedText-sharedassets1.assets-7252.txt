@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1294
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Emin ol bu mahallede beni en çok ilgilendiren kişi o. Nasıl biri olduğunu çok iyi biliyorum. Bana böyle aptal cevaplar verirsen sana yardımcı olamam."
+ 1 string eng_Text = "Stai tranquillo, è la mia più grande preoccupazione qui. So molto bene che tipo di persona è. Se mi dai risposte stupide come questa, non posso aiutarti."
+ 1 string fr_Text = "Stai tranquillo, è la mia più grande preoccupazione qui. So molto bene che tipo di persona è. Se mi dai risposte stupide come questa, non posso aiutarti."
+ 1 string ch_Text = "放心吧，他是我在这最关心的人，我非常了解他是什么人。如果你就这么回答我的问题，我可帮不了你。"
+ 1 string tr_Answer1 = "Ö-önemli bir şey sormam gerekiyor: Tom neden işinden ayrıldı? İkisi de aynı yerde çalışıyordu ve oldukça iyi maaşları vardı. Tom’un bir şey yaşamadan oradan ayrılması saçma geliyor."
+ 1 string eng_Answer1 = "H-Ho una domanda importante: perché Tom si è licenziato? Lavoravano entrambi nello stesso posto e avevano un'ottima paga. Non ha senso che Tom se ne vada senza motivo."
+ 1 string fr_Answer1 = "H-Ho una domanda importante: perché Tom si è licenziato? Lavoravano entrambi nello stesso posto e avevano un'ottima paga. Non ha senso che Tom se ne vada senza motivo."
+ 1 string ch_Answer1 = "我……我有个很重要的问题：汤姆为什么辞职？他们俩之前是同事，工资也很高。汤姆就这么无缘无故离开了，没有道理啊。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

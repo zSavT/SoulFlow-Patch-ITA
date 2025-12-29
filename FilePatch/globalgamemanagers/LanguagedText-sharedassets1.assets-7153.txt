@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1317
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Hayattasın Mike. Öyleyse sandığım şey olmadı. Neden acaba?"
+ 1 string eng_Text = "Sei vivo Mike. Quindi, quello che immaginavo non è successo. Chissà perché?"
+ 1 string fr_Text = "Tu es vivant Mike. Donc, ce que j'imaginais n'est pas arrivé. Je me demande pourquoi?"
+ 1 string ch_Text = "你还活着，米奇。看来我想象的没有发生。好奇是为什么？"
+ 1 string tr_Answer1 = "(Yaşadıklarımı biliyor mu acaba?) Düşündüğün şey neydi Frank?"
+ 1 string eng_Answer1 = "(Sa cosa ho passato?) Cosa immaginavi, Frank?"
+ 1 string fr_Answer1 = "(Sait-il ce que j'ai vécu ?) Qu'as-tu imaginé, Frank ?"
+ 1 string ch_Answer1 = "（他知道我经历的事？）你想象了什么，弗兰克？"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1411
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Evine girersem kesin anlar. Ayrıca, benim bu işten kazancım ne olacak?"
+ 1 string eng_Text = "Saprà sicuramente se entro in casa sua. Inoltre, cosa ci guadagno da questo lavoro?"
+ 1 string fr_Text = "Il saura sûrement si je m'introduis chez lui. De plus, qu'est-ce que je retirerai de ce travail ?"
+ 1 string ch_Text = "如果我闯进他家，他一定会知道的。而且，这么做我能得到什么好处？"
+ 1 string tr_Answer1 = "Anlamayacağının garantisini veriyorum sana."
+ 1 string eng_Answer1 = "Ti garantisco che non se ne accorgerà."
+ 1 string fr_Answer1 = "Je te garantis que tu ne comprendras pas."
+ 1 string ch_Answer1 = "我保证你不会懂的。"
+ 1 string tr_Answer2 = "Ah.. doğru. Bak…"
+ 1 string eng_Answer2 = "Oh... Hai ragione. Guarda..."
+ 1 string fr_Answer2 = "Oh... Tu as raison. Regarde..."
+ 1 string ch_Answer2 = "哦……你说的对，听着……"

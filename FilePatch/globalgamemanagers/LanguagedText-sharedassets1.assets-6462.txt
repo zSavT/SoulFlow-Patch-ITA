@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1352
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Demek yoklar… Bruce ortalıkta yoksa kendini güvene al derim. Bana sorarsan Pavlov bir yemdi. Belli bu zaten, bugün aklandı. Belki gece yine alırlar. "
+ 1 string eng_Text = "Quindi, non sono qui... Se Bruce non c'è, direi di stare al sicuro se fossi in te. Se lo chiedi a me, Pavlov era un'esca. È ovvio, è stato assolto oggi. Forse lo riprenderanno stasera."
+ 1 string fr_Text = "Donc, ils ne sont pas ici... Si Bruce n'est pas là, je dirais de rester en sécurité si j'étais toi. Si tu veux mon avis, Pavlov était un appât. C'est évident, il a été relaissé aujourd'hui. Peut-être qu'ils vont le reprendre ce soir. "
+ 1 string ch_Text = "那么他们不在这……如果布鲁斯不在，我要是你的话，会注意安全。如果你问我，我觉得巴甫洛夫就是个诱饵。很明显，他今天被无罪释放，也许今晚他们就会再把他抓回去。"
+ 1 string tr_Answer1 = "Sağ ol bilgiler için. Görüşmek üzere."
+ 1 string eng_Answer1 = "Grazie per l'informazione. Ci vediamo dopo."
+ 1 string fr_Answer1 = "Merci pour l'information."
+ 1 string ch_Answer1 = "谢谢你的信息。再见。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

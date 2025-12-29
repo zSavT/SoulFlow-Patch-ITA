@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 2464
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Mahallenin zengin züppesi olarak görülse de gerçekte pek öyle değildir. Emekli mimar. Pavlov ile yakın sayılabilecek bir arkadaşlığa sahipler. Bruce ile birkaç sene öncesine kadar çok yakın arkadaşlardı. Rose’dan hoşlanıyor. Oldukça zengin. Ara sıra duygusallaşmasıyla bilinir. Geçmişte, yetkili olduğu bir yapı projesinde bir işçinin ölümünden sorumlu tutulduğu için bir süre hapis yattı. Tom ve William’ın cinayetinden sonra, katili bulmak için insanları yokluyor."
+ 1 string eng_Text = "Anche se sembra lo snob d'élite del quartiere, la sua vita non è tale. Architetto in pensione. Ha un'amicizia sopra la media con Pavlov. Aveva un'amicizia molto stretta con Bruce fino a pochi anni fa. Gli piace Rose. Piuttosto ricco. È noto per diventare occasionalmente emotivo. Ha scontato una pena in prigione in passato per essere stato ritenuto colpevole della morte di un operaio in un progetto di costruzione di cui era responsabile. È stato rilasciato dopo aver scontato appena il dieci per cento della sua pena. Dopo la morte di Tom e William, sta indagando personalmente sulle persone per trovare l'assassino."
+ 1 string fr_Text = "Anche se sembra lo snob d'élite del quartiere, la sua vita non è tale. Architetto in pensione. Ha un'amicizia sopra la media con Pavlov. Aveva un'amicizia molto stretta con Bruce fino a pochi anni fa. Gli piace Rose. Piuttosto ricco. È noto per diventare occasionalmente emotivo. Ha scontato una pena in prigione in passato per essere stato ritenuto colpevole della morte di un operaio in un progetto di costruzione di cui era responsabile. È stato rilasciato dopo aver scontato appena il dieci per cento della sua pena. Dopo la morte di Tom e William, sta indagando personalmente sulle persone per trovare l'assassino."
+ 1 string ch_Text = "尽管他看起来像社区里的精英势利小人，但他的生活却并非如此。退休的建筑师。和巴甫洛夫有着超乎寻常的友谊。直到几年前和布鲁斯还保持着非常亲密的友谊。喜欢萝丝。非常有钱。出了名的情绪化。曾在监狱服刑，因为他在一个由他负责的建筑项目中，对一名工人的死负有责任。只服了10%的刑期就被释放了。汤姆和威廉死后，他亲自进行调查，寻找凶手。"
+ 1 string tr_Answer1 = ""
+ 1 string eng_Answer1 = ""
+ 1 string fr_Answer1 = ""
+ 1 string ch_Answer1 = ""
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

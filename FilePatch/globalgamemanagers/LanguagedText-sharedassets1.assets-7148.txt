@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1412
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Öyle olsun. Ama ben yine de söyleyeceğim. Bruce sırf Rose için William’ı öldürmüş olabilir."
+ 1 string eng_Text = "Così sia. Ma te lo dirò comunque. Rose potrebbe essere l'unica ragione per cui Bruce ha ucciso William."
+ 1 string fr_Text = "Qu'il en soit ainsi. Mais je vais quand même te le dire. Rose pourrait être la seule raison pour laquelle Bruce a tué William."
+ 1 string ch_Text = "那就这样吧。但我还是得告诉你，萝丝可能是布鲁斯杀了威廉的唯一原因。"
+ 1 string tr_Answer1 = "Bunu neye dayanarak söylüyorsun?"
+ 1 string eng_Answer1 = "E su cosa ti basi?"
+ 1 string fr_Answer1 = "Qu’est-ce que tu en sais ?"
+ 1 string ch_Answer1 = "你的根据是什么？"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1363
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Kafeye herkesi almıyorlar. Seni tanıyorlardır muhtemelen, yani almayabilirler. Ben bir kez girmiştim. "
+ 1 string eng_Text = "Non lasciano entrare chiunque nel bar. Probabilmente non ti conoscono, quindi potrebbero non lasciarti entrare. Io sono entrato una volta."
+ 1 string fr_Text = "Ils ne laissent pas entrer n'importe qui dans le café. Ils ne te connaissent probablement pas, donc ils ne te laisseront peut-être pas entrer. Je suis entré une fois."
+ 1 string ch_Text = "他们不会随随便便让人进咖啡馆。他们可能不认识你，所以可能不让你进去。我进去过一次。"
+ 1 string tr_Answer1 = "Hmm, anladım. Ben bir yolunu bulacağım. Neredeydi bu kafe tam olarak?"
+ 1 string eng_Answer1 = "Hmm, capisco. Troverò un modo. Dov'è il bar?"
+ 1 string fr_Answer1 = "Hmm, je comprends. Je trouverai un moyen. Où est le café ?"
+ 1 string ch_Answer1 = "嗯，我明白了。我会找个法子的。那家咖啡馆在哪？"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

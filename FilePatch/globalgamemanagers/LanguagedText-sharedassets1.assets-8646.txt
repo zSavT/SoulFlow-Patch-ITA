@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1371
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Uzatma, seni asla anlayamayacağım. Bir de gitmen…"
+ 1 string eng_Text = "Stai zitto un secondo. Non ti capirò mai. Inoltre..."
+ 1 string fr_Text = "Stai zitto un secondo. Non ti capirò mai. Inoltre..."
+ 1 string ch_Text = "你闭嘴吧，我永远不会懂你的。而且……"
+ 1 string tr_Answer1 = "Bir de ne! Clara seni sevmiyor. Ben aranızı düzgün tutuyorum. Benimle düzgün konuş."
+ 1 string eng_Answer1 = "Inoltre cosa! A Clara non piaci. Sto mantenendo le cose decenti tra te e Clara. Parlami con rispetto."
+ 1 string fr_Answer1 = "Inoltre cosa! A Clara non piaci. Sto mantenendo le cose decenti tra te e Clara. Parlami con rispetto."
+ 1 string ch_Answer1 = "而且什么！克拉拉不喜欢你，是我让你们俩没撕破脸，你最好对我说话恭敬点。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

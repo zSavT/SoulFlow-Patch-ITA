@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1514
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Yalnız takılan fakat mahalleli tarafından tanınan bir genç. Birçok kişiye nefret besler ama iradesiyle bunu kontrol altına alır. David, cinayet olaylarından sonra ondan şüpheleniyor. Serseri olmamak için kendini geliştirdi. Annesi ve babası o çocukken öldü. Gururlu bir yapıya sahip. Kasapta çalışıyor. Her geldiğinde eve kötü bir koku taşır. Frank’i itici bulduğundan sevmiyor. Annesine bağlılığından dolayı mahallede imalı konuşan birçok kişiyle tartışmaya girmiştir. William öldükten sonraki gün, neredeyse gün boyu ortalıkta yoktu."
+ 1 string eng_Text = "Un giovane solitario, ma conosciuto nel quartiere. Risente di molte persone, ma usa la sua forza di volontà per superarlo. David lo sospetta dopo gli omicidi. Si è cresciuto da solo per non diventare un teppista. I suoi genitori sono morti quando era bambino. Orgoglioso. Lavora in una macelleria. Porta con sé un cattivo odore quando torna a casa. Non gli piace Frank perché lo trova ripugnante. A causa del suo legame con sua madre, ha avuto discussioni con molte persone che parlavano in modo insinuante. Dopo il giorno in cui William è morto, è stato assente per quasi tutto il giorno."
+ 1 string fr_Text = "Un giovane solitario, ma conosciuto nel quartiere. Risente di molte persone, ma usa la sua forza di volontà per superarlo. David lo sospetta dopo gli omicidi. Si è cresciuto da solo per non diventare un teppista. I suoi genitori sono morti quando era bambino. Orgoglioso. Lavora in una macelleria. Porta con sé un cattivo odore quando torna a casa. Non gli piace Frank perché lo trova ripugnante. A causa del suo legame con sua madre, ha avuto discussioni con molte persone che parlavano in modo insinuante. Dopo il giorno in cui William è morto, è stato assente per quasi tutto il giorno."
+ 1 string ch_Text = "一个年轻的单身汉，但在附近很有名。怨恨很多人，但用自己的意志力克服了。大卫在谋杀案之后很怀疑他。努力不让自己长成一个废物，从小父母双亡。很高傲。在一个肉店工作，每天带着满身臭味回家。他不喜欢弗兰克，因为他觉得弗兰克令人厌烦。因为他和母亲亲密的关系，他和很多说妈妈闲话的人吵过架。威廉死后，他几乎一整天都不见人影。"
+ 1 string tr_Answer1 = ""
+ 1 string eng_Answer1 = ""
+ 1 string fr_Answer1 = ""
+ 1 string ch_Answer1 = ""
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

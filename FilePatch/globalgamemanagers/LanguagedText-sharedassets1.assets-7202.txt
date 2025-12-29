@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1375
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Hah! Ben de düzgün bir şey söyleyeceksin sandım. Bruce ile bir konu hakkında çatışma halinde olmadan Tom’un ayrılması mümkün değil. Ayrıca bunu neden Bruce'a sorardın ki!"
+ 1 string eng_Text = "Hah! E pensavo che avresti detto qualcosa degno di nota! Non è possibile che Tom se ne vada senza essere in disaccordo con Bruce. E perché non lo chiedi a Bruce!"
+ 1 string fr_Text = "Hah ! Et je pensais que tu allais dire quelque chose qui valait la peine de t’écouter! Ce n'est pas possible pour Tom de partir sans être en désaccord avec Bruce. Et pourquoi ne demandes-tu pas ça à Bruce ?"
+ 1 string ch_Text = "哈！我还以为你要问什么有价值的东西！如果不是因为和布鲁斯合不来，汤姆怎么可能离开。你为什么不去问问布鲁斯！"
+ 1 string tr_Answer1 = "Gerçekten bir şeyler yapmışsa bunu sorduğumda fark edebileceğim bir tepki verir diye."
+ 1 string eng_Answer1 = "Perché se avesse fatto davvero qualcosa avrebbe avuto una risposta evidente quando gliel'ho chiesto!"
+ 1 string fr_Answer1 = "Parce que s'il a vraiment fait quelque chose, il aurait une réponse perceptible quand je lui aurais demandé !"
+ 1 string ch_Answer1 = "因为如果他真的做了什么，我问他的时候，他的反应会很明显！"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

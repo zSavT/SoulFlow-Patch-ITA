@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1445
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Clara’nın kocası. Mahallede eşi dışında başka bir akrabası yok. Makine teknikeri. Mahallede kimileri onu severken kimileri de ondan pek hoşlanmaz. Zengin ve ailesinden kalan bir mirasa sahip. Empati kurabilme ve sosyalleşme konusunda pek iyi değil. Herhangi bir şey için karar verirken ailesinden kalan değerleri ön planda tutar. Clara ile evli, fakat ilişkileri sağlıklı değil. Birçok konuda geri kafalı. Clara’ya olan yakınlığından dolayı, Tom’un ve William’ın cinayetinden sonra Tom’un ölümüne içten içe sevinmişti."
+ 1 string eng_Text = "Il marito di Clara. Non ha altri parenti nel quartiere tranne lei. Tecnico di macchine, ad alcuni nel quartiere piace, ad altri no. Ricco, ha un'eredità lasciata dalla sua famiglia. Non è molto bravo quando si tratta di socializzare ed entrare in empatia. Dà priorità ai valori familiari quando prende decisioni. Sposato con Clara. Ma non hanno una relazione sana. È piuttosto all'antica nella maggior parte delle questioni. Dopo gli omicidi di Tom e William, era segretamente felice che Tom fosse morto a causa della stretta relazione di Tom con Clara."
+ 1 string fr_Text = "Le mari de Clara. N'a pas d'autres proche dans le quartier à part elle. Technicien de machine, certains dans le quartier l'aiment, d'autres pas. Riche, a un héritage par sa famille. Pas si bon quand il s'agit d’être sociale et de faire preuve d'empathie. Donne la priorité à ses valeurs familiales lors de la prise de décisions. Marié à Clara. Mais ils n'ont pas une relation très saine. Il est assez démodé dans la plupart des domaines. Après les meurtres de Tom et William, il était secrètement - en raison de sa relation proche avec Clara - heureux que Tom soit mort."
+ 1 string ch_Text = "凯文的妻子，布鲁斯的妹妹。家庭妇女。平时和这里的人相处得不错，但是因为想法的冲突时不时会吵架。不是很富有。平时很文静，但社交能力没问题。在做决定时，她总是把直觉置于逻辑之上，因此和凯文没少吵过。三年前，因为发生了一件事，他们曾经吵得很凶。他们和汤姆关系很好，在汤姆被谋杀之后，她就陷入了抑郁。在谋杀案之后，她足不出户，可能是因为害怕。"
+ 1 string tr_Answer1 = ""
+ 1 string eng_Answer1 = ""
+ 1 string fr_Answer1 = ""
+ 1 string ch_Answer1 = ""
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

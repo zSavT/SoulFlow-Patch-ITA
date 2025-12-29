@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1324
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Ne biliyorsun?"
+ 1 string eng_Text = "Cosa sai?"
+ 1 string fr_Text = "Que sais-tu ?"
+ 1 string ch_Text = "你知道什么？"
+ 1 string tr_Answer1 = "Ya başka bir şeyler biliyorsak? Bu durumda söylemem büyük bir hata olur."
+ 1 string eng_Answer1 = "E se sapessimo cose diverse? Allora sarebbe un errore se te lo dicessi."
+ 1 string fr_Answer1 = "Et si nous savions des choses différentes ? Alors ce serait une erreur si je te le disais."
+ 1 string ch_Answer1 = "万一我们各自知道的事不一样呢？我要是告诉你了不就完了。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

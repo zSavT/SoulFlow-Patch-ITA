@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1458
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Kendi çıkarları uğruna insanları kullanma huyundan dolayı, mahalleli tarafından pek sevilmez. Hatta bu sebeple mahalleli onunla olan ilişkisini birçok kez kesmiştir. Bruce’un kuzeni. Orta halli bir hayata sahip. Hayatında düzene oldukça önem verir. Çıkarcı ve dar görüşlüdür. Mantığı duygusuna göre daha ağır basar. Cimridir. Sosyal statüsünü geliştirmek için cinayetlerden sonra kendi başına araştırmalar yapıyor. Bu araştırma sürecinde katil kendisine zarar vermesin diye taşınıyor. Mikey’dan şüpheleniyor."
+ 1 string eng_Text = "Non molto amato dalla gente del posto a causa della sua abitudine di manipolare le persone per i propri benefici. Infatti, ha tagliato molti legami per questo motivo. Cugino di Bruce. Ceto medio. Trova importante avere ordine nella vita. Sordido e di mentalità ristretta. Segue la logica piuttosto che i sentimenti. Avaro. Fa indagini per conto suo dopo gli omicidi per migliorare il suo status sociale. Si sta trasferendo in modo che l'assassino non gli faccia nulla durante le sue indagini. Sospetta di Mikey."
+ 1 string fr_Text = "Pas très apprécié par son entourage à cause de son habitude de manipuler les gens à son profit. En fait, coupe beaucoup de liens à cause de cette raison. Le cousin de Bruce. Classe moyenne. Trouve qu'il est important d'avoir de l'ordre dans la vie. Sordide et étroit d'esprit. Va de la logique sur les sentiments. Avare. Fait des enquêtes par lui-même après les meurtres afin d'améliorer son statut social. Se déplace actuellement pour que le meurtrier ne lui fasse rien pendant ses investigations. Suspecte Mikey."
+ 1 string ch_Text = "这的人不太喜欢他，因为他习惯为了自己的利益操纵别人。事实上，因为这个原因，和很多人断绝了关系。布鲁斯的表亲。中产阶级。觉得生活有秩序很重要。卑鄙无耻，心胸狭隘，逻辑胜过感情，小肚鸡肠。在凶案发生后一直在自己进行调查，以提高自己的社会地位。正在搬家，这样凶手就不会在调查期间伤害他。怀疑米奇。"
+ 1 string tr_Answer1 = ""
+ 1 string eng_Answer1 = ""
+ 1 string fr_Answer1 = ""
+ 1 string ch_Answer1 = ""
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

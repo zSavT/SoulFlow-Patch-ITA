@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1281
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "iyiyim Kevin, ama lütfen bu konuyu bir daha açma."
+ 1 string eng_Text = "Sto bene, Kevin, ma per favore non tirare fuori di nuovo questo argomento. "
+ 1 string fr_Text = "Sto bene, Kevin, ma per favore non tirare fuori di nuovo questo argomento. "
+ 1 string ch_Text = "我还好，凯文，不过那件事就别再提了，好吗。"
+ 1 string tr_Answer1 = "Özür dilerim, bu arada istediğin zaman bize uğrayabilirisin. Clara evde hep, bilirsin. "
+ 1 string eng_Answer1 = "Mi dispiace, puoi venirci a trovare quando vuoi, comunque. Clara è sempre a casa, sai."
+ 1 string fr_Answer1 = "Mi dispiace, puoi venirci a trovare quando vuoi, comunque. Clara è sempre a casa, sai."
+ 1 string ch_Answer1 = "抱歉，顺便一提，你随时都能来找我们坐坐。克拉拉一直在家。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

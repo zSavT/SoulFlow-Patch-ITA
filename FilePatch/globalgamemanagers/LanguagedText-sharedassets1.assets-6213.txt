@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1293
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Ne oldu Rose?"
+ 1 string eng_Text = "Cosa è successo Rose?"
+ 1 string fr_Text = "Que s'est-il passé Rose ?"
+ 1 string ch_Text = "怎么了，萝丝？"
+ 1 string tr_Answer1 = "Bugün işe gitmiyorsun değil mi?"
+ 1 string eng_Answer1 = "Non vai a lavorare oggi, vero?"
+ 1 string fr_Answer1 = "Tu ne vas pas travailler aujourd'hui, n'est-ce pas ?"
+ 1 string ch_Answer1 = "你今天不去上班，对吧？"
+ 1 string tr_Answer2 = "Düşündüm de, boşver. "
+ 1 string eng_Answer2 = "Ripensandoci, lascia perdere."
+ 1 string fr_Answer2 = "À la réflexion, laisse tomber."
+ 1 string ch_Answer2 = "我转念一想还是算了吧。"

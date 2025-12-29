@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1328
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Mikey he... Hatırladığıma göre o çocuk bu kadar öfkeli değildi sanki. Para için de birisini öldüreceğini sanmıyorum. Yoksa ilk seni öldürmüştü. "
+ 1 string eng_Text = "Mikey eh... Non ricordo che quel ragazzo fosse così furioso. E non credo che ucciderebbe per soldi. O ti avrebbe ucciso prima. "
+ 1 string fr_Text = "Mikey hein... Je ne me souviens pas que ce gamin ait été aussi furieux. Et je ne pense pas qu'il tuerait pour de l'argent. Ou il t'aurait tué en premier. "
+ 1 string ch_Text = "米奇哈……我不记得那孩子有这么生气过。而且我觉得他不会为了钱杀人。或者他本可能会先杀了你。"
+ 1 string tr_Answer1 = "Öyleyse, bu gece kendini koru. Son zamanlarda paran iyice arttı. Ne iş yaptığını bilmesem de..."
+ 1 string eng_Answer1 = "Allora, stai al sicuro stanotte. Hai accumulato una fortuna di recente. Anche se non so come..."
+ 1 string fr_Answer1 = "Alors, sois prudent ce soir. Tu as amassé une fortune récemment. Bien que je ne sache pas comment..."
+ 1 string ch_Answer1 = "那么，祝你平安度过今晚。最近你搞到一大笔钱吧，虽然我不知道你怎么做到的……"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

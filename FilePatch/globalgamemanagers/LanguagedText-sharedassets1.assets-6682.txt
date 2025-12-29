@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1349
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Beni zorlama David. Söylemek istemiyorum o kadar..."
+ 1 string eng_Text = "Non costringermi David. Non voglio dirlo, tutto qui."
+ 1 string fr_Text = "N’insiste pas David. Je ne veux pas dire, c'est tout."
+ 1 string ch_Text = "你别逼我，大卫。我不想说，就这样。"
+ 1 string tr_Answer1 = "Sen bilirsin... Ama unutma, ben bu mahalleden gittiğimde Frank ve Pavlov’dan zorbalık görmemen için onlarla konuşan kimse kalmayacak."
+ 1 string eng_Answer1 = "Va bene allora... Ma non dimenticare che quando lascerò questo quartiere, non ci sarà nessuno a parlare con Frank e Pavlov per non farti bullizzare."
+ 1 string fr_Answer1 = "D’ac alors... Mais n'oublie pas que lorsque je quitte ce quartier, il n'y aura plus personne pour parler avec Frank et Pavlov pour qu'ils ne te tyrannisent pas."
+ 1 string ch_Answer1 = "好吧……但是别忘了，等我离开这里之后，就没人拦着弗兰克和巴甫洛夫欺负你了。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

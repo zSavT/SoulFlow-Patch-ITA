@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1421
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Evet! Olası katile öldürme sebebini sormak gerçekten riskli (!) Neyse, bildiğim pek bir şey yok bu konuda. Ama onu tanımış birisi olarak söylüyorum ki Bruce çok kurnaz bir herif. "
+ 1 string eng_Text = "Sì! Chiedere a un potenziale assassino il motivo del suo omicidio è sicuramente pericoloso (!) Comunque, non so molto a riguardo. Ma come persona che l'ha inquadrato, posso dire che Bruce è un bastardo astuto."
+ 1 string fr_Text = "Ouais ! Demander à un meurtrier potentiel la raison de son meurtre est sûrement dangereux (!) Quoi qu'il en soit, je ne sais pas grand-chose à ce sujet. Mais en tant que personne qui l'a cerné, je peux dire que Bruce est un sacré rusé."
+ 1 string ch_Text = "对哦！问一个潜在的杀人犯他杀人的理由肯定很危险（！）反正我知道的不多。但作为一个了解他的人，我可以说布鲁斯是一个狡猾的家伙。"
+ 1 string tr_Answer1 = "Hmm…"
+ 1 string eng_Answer1 = "Hmm…"
+ 1 string fr_Answer1 = "Hmm…"
+ 1 string ch_Answer1 = "呃……"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1273
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Suçsuz olduğum açık ama yalnızca şimdilik özgürüm."
+ 1 string eng_Text = "È chiaro che sono innocente, ma sono libero solo per il momento."
+ 1 string fr_Text = "Il est clair que je suis innocent, mais je ne suis libre que pour le moment."
+ 1 string ch_Text = "很明显我是无辜的，但是我只是暂时自由了。"
+ 1 string tr_Answer1 = "Haha! Gözaltı seni seni şair yapmış. Peki, gerçekten de sen değilsen kim bu katil? Ben miyim yoksa?"
+ 1 string eng_Answer1 = "Haha! Il tempo dentro ti ha trasformato in un poeta. Allora, se non sei tu, chi è l'assassino? Io forse?"
+ 1 string fr_Answer1 = "Ha ha ! Le temps passé à l'intérieur a fait de vous un poète. Alors, si tu es innocent, qui est le meurtrier ? Moi peut-être ?"
+ 1 string ch_Answer1 = "哈哈！进去几天你还变成诗人了。那不是你的话，谁是凶手呢？也许是我？"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

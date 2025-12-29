@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1351
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Mikey'in ailesiyle ilgili. Geçmişte kötü şeyler yaşadılar. Ve şu an ikisi de ortalıkta yok. "
+ 1 string eng_Text = "Riguarda la famiglia di Mikey. Hanno passato brutti momenti in passato. E ora, nessuno dei due è in giro."
+ 1 string fr_Text = "C'est à propos de la famille de Mikey. Ils ont vécu de mauvaises choses dans le passé. Et maintenant, aucun d'eux n'est là."
+ 1 string ch_Text = "和米奇的家人有关，过去他们遭遇过很糟糕的事。现在，他们都不在了。"
+ 1 string tr_Answer1 = "Tahminlerim tutuyor… (Mikey, Bruce'u öldürecek olmalı.) Neyse, ben gideyim. Sağ ol bilgi için."
+ 1 string eng_Answer1 = "Le mie previsioni si stanno avverando... (Mikey deve aver pianificato di uccidere Bruce.) Comunque, vado. Grazie per l'informazione."
+ 1 string fr_Answer1 = "Mes prédictions deviennent vraies... (Mikey doit planifier de tuer Bruce.) Quoi qu'il en soit, j'y vais. Merci pour l'information."
+ 1 string ch_Answer1 = "我的猜测现在成真了……（米奇一定在计划杀死布鲁斯。）无论如何，我要走了。谢谢你提供的信息。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

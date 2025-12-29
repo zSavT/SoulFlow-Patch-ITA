@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1343
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Bruce haklıymış..."
+ 1 string eng_Text = "Bruce aveva ragione..."
+ 1 string fr_Text = "Bruce avait raison..."
+ 1 string ch_Text = "布鲁斯说的对……"
+ 1 string tr_Answer1 = "(Hakkımda yine ne dedi acaba o ahmak!) "
+ 1 string eng_Answer1 = "(Mi chiedo cosa abbia detto ancora su di me quell'idiota!)"
+ 1 string fr_Answer1 = "(Je me demande ce que cet idiot a encore raconté sur moi !)"
+ 1 string ch_Answer1 = "（我想知道那个蠢货又说了我什么坏话！）"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

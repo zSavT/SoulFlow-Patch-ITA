@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1262
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Geçmişinde işçi ölümünden dolayı hapis yatmıştı biliyorsun.  Biraz yatıp, para ödeyip çıkması sence de çok şüpheli değil mi? İntikam isteyebilecek birisi… "
+ 1 string eng_Text = "È stato in prigione per la morte di un operaio in passato, sai. Non è sospetto che sia stato dentro poco e poi rilasciato su cauzione? È qualcuno che potrebbe volere vendetta..."
+ 1 string fr_Text = "Il a été en prison pour la mort d'un ouvrier dans le passé, tu sais. N'est-ce pas suspect qu'il ait été emprisonné et qu'il ait été libéré sous caution plus tard ? C'est quelqu'un qui pourrait vouloir se venger..."
+ 1 string ch_Text = "他过去因为一名工人的死亡进过监狱。他上一秒还在监狱里，下一秒就被保释出来了，难道不可疑吗？他很可能想要报复……"
+ 1 string tr_Answer1 = "Eee, şey. Evet sanırım. (saçmaladı iyice) "
+ 1 string eng_Answer1 = "Beh, ehm... Sì, immagino. (Ha iniziato a essere ridicolo.)"
+ 1 string fr_Answer1 = "Eh bien, euh... Ouais, je suppose. (Il a commencé à être ridicule.)"
+ 1 string ch_Answer1 = "呃……行吧。（他开始变得很奇怪。）"
+ 1 string tr_Answer2 = "Kesinlikle Rose! Dediklerin mantıklı."
+ 1 string eng_Answer2 = "Esattamente Rose! Ha senso."
+ 1 string fr_Answer2 = "Exactement Rose ! Ça a du sens."
+ 1 string ch_Answer2 = "没错，萝丝！你说的有道理。"

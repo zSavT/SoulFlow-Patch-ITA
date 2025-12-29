@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1419
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "G-görüşürüz Pavlov!"
+ 1 string eng_Text = "C-Ci vediamo Pavlov!"
+ 1 string fr_Text = "À-À plus Pavlov !"
+ 1 string ch_Text = "再……再见，巴甫洛夫！"
+ 1 string tr_Answer1 = "..."
+ 1 string eng_Answer1 = "..."
+ 1 string fr_Answer1 = "..."
+ 1 string ch_Answer1 = "..."
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

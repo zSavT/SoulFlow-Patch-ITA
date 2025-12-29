@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1464
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "William’ın ablası. Mahalledeki herkesle iyi geçinir. Bruce ile daha yakındır. Bir tekstil şirketinde çalışıyor. Orta halli bir hayata sahip. Dürüst ve sakindir fakat saftır. William ile Bruce hakkında sık sık tartışırlardı. Kardeşi öldükten sonra çok üzüldü ama hayatına normal bir şekilde devam etmeye çalışıyor. Bruce’tan şüpheleniyor ama bunu kabullenmek istemiyor."
+ 1 string eng_Text = "Sorella maggiore di William. Ha relazioni medie o migliori con la gente del posto. È ancora più vicina a Bruce. Lavora in un'azienda tessile. Ceto medio. Ha una personalità onesta e calma, ma è credulona. Discuteva regolarmente con William su Bruce. È rimasta devastata dopo la morte di suo fratello ma sta cercando di tornare a una vita normale per dimenticare. Sospetta di Bruce ma non vuole saperlo."
+ 1 string fr_Text = "La sœur aînée de William. Bénéficie de relations moyennes ou meilleures avec les habitants. Est encore plus proche de Bruce. Travaille dans une entreprise de textile. Classe moyenne. A une personnalité honnête et calme, mais est crédule. Se disputerait régulièrement avec William à propos de Bruce. A été dévasté après la mort de son frère mais tente de reprendre une vie normale pour oublier. Suspecte Bruce mais ne veut pas le savoir."
+ 1 string ch_Text = "威廉的姐姐。和这的人关系泛泛，个别关系好一点，其中和布鲁斯关系最好。在一家纺织公司工作，中产阶级。有个诚实和冷静的性格，但容易受骗。经常和威廉争论布鲁斯的事。弟弟死后，她悲痛欲绝，但为了忘记这件事，在努力回到正常的生活轨迹上。怀疑布鲁斯，但不想深入了解了。"
+ 1 string tr_Answer1 = ""
+ 1 string eng_Answer1 = ""
+ 1 string fr_Answer1 = ""
+ 1 string ch_Answer1 = ""
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

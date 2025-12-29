@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1340
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Hey, Kevin! Bugün işe gitmiyor musun? "
+ 1 string eng_Text = "Ehi, Kevin! Non vai a lavorare oggi? "
+ 1 string fr_Text = "Hé, Kevin ! Tu ne vas pas travailler aujourd'hui ? "
+ 1 string ch_Text = "嘿，凯文！你今天没去上班吗？"
+ 1 string tr_Answer1 = "Hayır, olaylar içimi daralttı. Biraz yürümeye karar verdim. Sen nasılsın, kardeşin için hala üzgün müsün? "
+ 1 string eng_Answer1 = "No, le cose che sono successe mi hanno incasinato la testa. Ho deciso di fare una passeggiata per un po'. E tu, stai bene? Sei ancora triste per tuo fratello?"
+ 1 string fr_Answer1 = "Non, ce qui s'est passé m'a chamboulé. J'ai décidé de faire un tour. Et toi, ça va ? Tu es toujours triste pour ton frère ?"
+ 1 string ch_Answer1 = "没去，发生的这些事让我很头大，我打算去散个步。你呢，你还好吗？还在为你弟弟的事伤心吗？"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

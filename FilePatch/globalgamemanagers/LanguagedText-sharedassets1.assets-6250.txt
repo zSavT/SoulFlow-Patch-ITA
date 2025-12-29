@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1388
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Pavlov… B-beni artık kurtaramazsın. Kararımı verdim."
+ 1 string eng_Text = "Pavlov... Tu- tu non puoi salvarmi ora. Ho preso la mia decisione."
+ 1 string fr_Text = "Pavlov... Tu- tu ne peux pas me sauver maintenant. J'ai pris ma décision."
+ 1 string ch_Text = "巴甫洛夫……你……你现在救不了我，我已经下定决心了。"
+ 1 string tr_Answer1 = "Mike! Aklından geçeni tahmin edebiliyorum. Ben de çok düşünürdüm. Ama düşünce olarak kaldı. Bu sayede Bruce’u bu gece öldürebileceğim."
+ 1 string eng_Answer1 = "Mike! So cosa ti passa per la testa. Tutti abbiamo passato quei momenti. Ma guarda, ora è solo un pensiero. Grazie a questo posso uccidere Bruce stasera."
+ 1 string fr_Answer1 = "Mike ! Je sais ce qui te passe par la tête. Nous sommes tous passés par là. Mais regarde, ce n'est qu'une pensée maintenant. Grâce à ça, je peux tuer Bruce ce soir."
+ 1 string ch_Answer1 = "迈克！我知道你在想什么，我们都经历过那种日子。但是听着，现在我就是有个想法，拜它所赐，我今晚能杀了布鲁斯。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

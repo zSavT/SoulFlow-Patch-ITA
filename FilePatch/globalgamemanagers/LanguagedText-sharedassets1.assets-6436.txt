@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1372
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Hastaneye gitmelisin."
+ 1 string eng_Text = "Devi andare in ospedale."
+ 1 string fr_Text = "Tu dois te rendre à l'hôpital."
+ 1 string ch_Text = "你得去医院。"
+ 1 string tr_Answer1 = "Beni tutmazsan gideceğim."
+ 1 string eng_Answer1 = "Lo farò se smetti di trattenermi."
+ 1 string fr_Answer1 = "Je le ferai si tu arrêtes de me retenir."
+ 1 string ch_Answer1 = "如果你不拖着我，我就去了。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

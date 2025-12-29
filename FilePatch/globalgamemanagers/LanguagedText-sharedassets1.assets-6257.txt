@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1276
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Evet, biraz önce Kevin'in evinden silah sesleri duydum. Seni burada görünce şaşırdım açıkçası..."
+ 1 string eng_Text = "Sì, ho appena sentito degli spari provenire dalla casa di Kevin. Ero confuso nel vederti qui, a essere sincero."
+ 1 string fr_Text = "Oui, je viens d'entendre des coups de feu venant de la maison de Kevin. J'étais confus de te voir ici pour être franc."
+ 1 string ch_Text = "是的，我听见凯文家里的枪声了。说实话，在这看见你，我很疑惑。"
+ 1 string tr_Answer1 = "S-sen? Bruce! Eskiden dosttunuz… (Gerçekten tahmin edebilmiş olmalı, silah sesleri de neyin nesi?) "
+ 1 string eng_Answer1 = "T-Tu? Bruce! Eravate amici in passato... (Sembra che l'abbia indovinato, ma quali spari?)"
+ 1 string fr_Answer1 = "T-Toi ? Bruce ! Vous étiez amis dans le passé... (On dirait qu'il l'a deviné, mais quels coups de feu ?)"
+ 1 string ch_Answer1 = "你？布鲁斯！你们过去是朋友……（看起来他是猜的，但是枪声是怎么回事？）"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

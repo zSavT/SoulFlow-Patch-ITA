@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1357
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Borcumu istesem öldürmek yerine soyardım sanki. "
+ 1 string eng_Text = "Sento che l'avrei rapinato invece di ucciderlo se avessi voluto i miei soldi."
+ 1 string fr_Text = "J'ai l'impression que je l'aurais volé au lieu de le tuer si j'avais voulu mon argent. "
+ 1 string ch_Text = "我觉得如果我想要回我的钱，我会抢劫他，而不是杀了他。"
+ 1 string tr_Answer1 = "Hayır, bu sayede biriken öfkeni boşaltacaktın Paranın gelmeyeceği aşikar."
+ 1 string eng_Answer1 = "No, in questo modo avresti sfogato la tua rabbia repressa. È chiaro che i soldi non sarebbero tornati."
+ 1 string fr_Answer1 = "Non, de cette façon tu allais soulager ta colère refoulée. Il est clair que l'argent ne reviendrait pas."
+ 1 string ch_Answer1 = "不，这样你就能释放积压已久的愤怒。显然你的钱要不回来了。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

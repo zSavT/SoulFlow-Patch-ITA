@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1366
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Galiba seni anladım David. Sen gerçekten alçak ruhlu bir insansın. Katili bulamadın, ama mahalleden gitmeden de aklının ucunda kalan insanları deniyorsun. "
+ 1 string eng_Text = "Credo di averti capito David. Sei davvero delirante. Non sei riuscito a trovare l'assassino ma stai cercando di indagare sulle persone di cui sei sicuro."
+ 1 string fr_Text = "Je crois que je te comprends David. Tu es maniaque. Tu n'as pas pu trouver le tueur mais tu essayes d'enquêter sur les personnes dont tu es sûr."
+ 1 string ch_Text = "我想我知道你是怎么回事了，大卫。你是真的有妄想症。你找不到凶手，但是你在试着调查那些你确定有问题的人。"
+ 1 string tr_Answer1 = "Bu çıkarımı yaptığın için şu an kendinle gurur duyuyor olmalısın! Kendini zeki sanma. Dikkat et belki yarın ensenden alıkonulursun..."
+ 1 string eng_Answer1 = "Devi essere fiero di te stesso ora per aver fatto questa deduzione! Non pensare di essere intelligente. Stai attento, domani può succedere di tutto."
+ 1 string fr_Answer1 = "Tu dois être fier de toi maintenant pour faire cette hypothèse! Ne pense pas que tu es intelligent. Fais attention, tout peut arriver demain."
+ 1 string ch_Answer1 = "你肯定为自己的这番推理骄傲不已！别以为你很聪明。小心点，明天什么都可能发生。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

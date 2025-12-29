@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1272
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Anladım. Peki Frank’ten haberin var mı?"
+ 1 string eng_Text = "Capisco. Beh, hai notizie di Frank?"
+ 1 string fr_Text = "Bon. Eh bien, as-tu des nouvelles de Frank ?"
+ 1 string ch_Text = "我知道了，那你知道弗兰克去哪了吗？"
+ 1 string tr_Answer1 = "İşe gittiğini biliyorum yalnızca. Bir süre geri gelmez gibi."
+ 1 string eng_Answer1 = "L'unica cosa che so è che sta andando al lavoro. Non tornerà per un po'."
+ 1 string fr_Answer1 = "La seule chose que je sais, c'est qu'il va travailler. Il ne sera pas de retour pendant un moment."
+ 1 string ch_Answer1 = "我只知道他要去上班，一时半会不会回来。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

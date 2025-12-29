@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1299
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Hayır, söylemiyorum. İnan bana seni ısırsa sen de yaşadığın heyecandan böyle düşünürdün."
+ 1 string eng_Text = "No, non lo sono. Credimi, se anche tu fossi stato morso la penseresti così."
+ 1 string fr_Text = "Non, je ne mens pas. Croie-moi, si toi aussi tu étais mordu, tu penserais aussi de cette façon."
+ 1 string ch_Text = "不，我没有。相信我，如果你也被咬了，也会这么想的。"
+ 1 string tr_Answer1 = "Ne saçmalıyorsun Mikey?"
+ 1 string eng_Answer1 = "Cos'è questa sciocchezza Mikey?"
+ 1 string fr_Answer1 = "C'est quoi ce non-sens Mikey ?"
+ 1 string ch_Answer1 = "你在胡言乱语什么，米奇？"
+ 1 string tr_Answer2 = "Kan kaybından ne dediğini bilmiyorsun."
+ 1 string eng_Answer2 = "Non hai senso a causa della perdita di sangue."
+ 1 string fr_Answer2 = "Tu n'as aucun sens à cause de la perte de sang."
+ 1 string ch_Answer2 = "你失血太多了，都开始说胡话了。"

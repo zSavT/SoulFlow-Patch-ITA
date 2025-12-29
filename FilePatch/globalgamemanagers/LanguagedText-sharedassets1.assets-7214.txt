@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1339
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "?"
+ 1 string eng_Text = "?"
+ 1 string fr_Text = "?"
+ 1 string ch_Text = "?"
+ 1 string tr_Answer1 = "Ne kadar inkar edersen et Clara ile ilişkin pek de iyiye gitmiyor, bana bunları o anlattı. Eğer yardım edersen ben de size yardım ederim."
+ 1 string eng_Answer1 = "Non importa quanto tu lo neghi, la tua relazione con Clara non sta migliorando, me ne ha parlato lei. Tu aiutami, io farò lo stesso per te."
+ 1 string fr_Answer1 = "N'import quel moyen tu le nies, ta relation avec Clara n' améliore pas, elle m'a dit sur ça. Tu m'as aidé, je ferai le même pour toi."
+ 1 string ch_Answer1 = "不论你如何否认，你和克拉拉的关系都没有进展，她是这么跟我说的。你帮我的话，我就会帮你。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

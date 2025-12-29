@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1269
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Bruce hakkında sorulan bir sorunun boş olacağını düşünmüyorum."
+ 1 string eng_Text = "Non credo che una domanda su Bruce sia inutile."
+ 1 string fr_Text = "Je ne pense pas qu'une question sur Bruce soit inutile."
+ 1 string ch_Text = "如果是关于布鲁斯的问题，你就不必提了。"
+ 1 string tr_Answer1 = "Uzatmaya gerek yok Kevin. Vazgeçtim.. Görüşmek üzere… "
+ 1 string eng_Answer1 = "Non c'è bisogno di farla durare a lungo. Lascia perdere. A presto..."
+ 1 string fr_Answer1 = "Pas besoin d'y passer du temps. Laisse tomber. À bientôt..."
+ 1 string ch_Answer1 = "没必要浪费时间，算了。再见……"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1427
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Bilmen gerekeni... Bruce, sapığın teki. Deli veya vahşi. Her neyse. Rose için Rose’un kardeşi William’ı öldürdü. Clara için Tom’u...  "
+ 1 string eng_Text = "Quello che dovresti sapere... Bruce è un vile pervertito. Pazzo o selvaggio. Comunque. Ha ucciso il fratello di Rose, William, per Rose. E Tom, per Clara..."
+ 1 string fr_Text = "Ce que tu dois savoir... Bruce, un vil pervers. Fou ou sauvage. Peu importe. A tué le frère de Rose, William, pour Rose. Et Tom, pour Clara..."
+ 1 string ch_Text = "就是那些你应该知道的……布鲁斯，一个卑鄙的变态。疯狂、残暴，或者类似的东西。因为萝丝，"
+ 1 string tr_Answer1 = "William’ı anlarım fakat Tom’u Clara için öldürmesi saçma. Bunu, bizim gözümüzde aklanmak için söylemediğin ne malum? "
+ 1 string eng_Answer1 = "Capisco William, ma uccidere Tom per Clara non ha senso. E come facciamo a sapere che non stai dicendo questo per sembrare innocente?"
+ 1 string fr_Answer1 = "Je comprends pour William mais tuer Tom pour Clara n'a aucun sens. Et comment savoir si tu ne dis pas ça pour paraître innocent ?"
+ 1 string ch_Answer1 = "我明白为什么杀威廉，但是他因为克拉拉杀了汤姆，这说不通。而且我怎么知道你说这些不是为了让自己显得清白？"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

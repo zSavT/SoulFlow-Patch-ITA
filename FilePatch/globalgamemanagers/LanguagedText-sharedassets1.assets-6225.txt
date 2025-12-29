@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1307
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Biliyor musun David? Ben katil olsam seni kovalamayı taşınsan da bırakmazdım. "
+ 1 string eng_Text = "Sai una cosa David? Se fossi un assassino, continuerei a darti la caccia anche nei tuoi sogni. "
+ 1 string fr_Text = "Tu sais quoi David ? Si j'étais un tueur, je continuerais à te pourchasser même dans tes rêves. "
+ 1 string ch_Text = "你知道吗，大卫？如果我是凶手，我会到你梦里追杀你。"
+ 1 string tr_Answer1 = "Bıçak taşıdığını duymuştum… Beni öldüremezsin. Öldürürsen tüm kimliğin ortaya çıkar. Değil mi? "
+ 1 string eng_Answer1 = "Ho sentito che portavi un coltello... Non puoi uccidermi. Se lo fai, la tua identità sarà nota a tutti. Giusto?"
+ 1 string fr_Answer1 = "J'ai entendu dire que tu portais un couteau... Tu ne peux pas me tuer. Si tu le fais, ton identité sera connue de tous. N'est-ce pas ?"
+ 1 string ch_Answer1 = "我听说你曾经拿着一把刀……你杀不了我。如果你杀了我，所有人都会知道你的身份，不是吗？"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

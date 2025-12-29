@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1266
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Evet."
+ 1 string eng_Text = "Sì."
+ 1 string fr_Text = "Ouais."
+ 1 string ch_Text = "嗯。"
+ 1 string tr_Answer1 = "Paraya ihtiyacı olan birisi için ne cesur bir hareket hah! Neyse, bak ne diyeceğim: Rose’a Bruce’tan uzak durmasını söyle. "
+ 1 string eng_Answer1 = "Mossa coraggiosa da parte di qualcuno che è nel bisogno, ah! Comunque, devo dirti una cosa: dì a Rose di stare lontana da Bruce."
+ 1 string fr_Answer1 = "Un geste courageux de la part de quelqu'un qui est dans le besoin, ha ! Quoi qu'il en soit, je dois te dire quelque chose : Dis à Rose de rester loin de Bruce."
+ 1 string ch_Answer1 = "作为一个穷人，你这一举动挺牛啊！话说回来，我告诉你件事：告诉萝丝离布鲁斯远点。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1382
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Dün geceden veya bu sabahtan beri. Her gün aynı saatte gelirdi oysa."
+ 1 string eng_Text = "O da ieri sera o da stamattina. Altrimenti, verrebbe alla stessa ora ogni giorno."
+ 1 string fr_Text = "Soit depuis hier soir, soit ce matin. Sinon, il viendrait à la même heure chaque jour."
+ 1 string ch_Text = "不是昨晚就是今早失踪的，不然，他每天都是定时定点来的。"
+ 1 string tr_Answer1 = "Anladım, teşekkürler. (Beni bu kadar süre nasıl bulamadı acaba? Polise gitmiş de olamaz, ya da olabilir.)"
+ 1 string eng_Answer1 = "Ho capito, grazie. (Come ha fatto a non trovarmi per tutto questo tempo? Non può essere andato alla polizia, o forse sì...)"
+ 1 string fr_Answer1 = "J'ai compris, merci. (Comment n'a-t-il pas pu me trouver tout ce temps ? Il n'a pas pu aller à la police, ou bien...)"
+ 1 string ch_Answer1 = "我明白了，谢谢你。（他怎么这么久都没找到我？他不可能去找警察了，还是他真的去了……）"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

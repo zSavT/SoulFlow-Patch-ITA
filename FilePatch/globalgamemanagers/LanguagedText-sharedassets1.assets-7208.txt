@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1398
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Beni tanımıyorsun bile!"
+ 1 string eng_Text = "Non mi conosci nemmeno!"
+ 1 string fr_Text = "Tu ne me connais même pas !"
+ 1 string ch_Text = "你甚至不了解我！"
+ 1 string tr_Answer1 = "Bunu nereden çıkardın? Sen doğmamışken ben burada oturuyordum. Ailen, ve kalanı… Her şeyi biliyorum."
+ 1 string eng_Answer1 = "Da dove viene questo? Ero qui prima ancora che tu nascessi. La tua famiglia, e il resto... So tutto."
+ 1 string fr_Answer1 = "D'où cela vient-il ? J'étais ici avant même que tu sois né. Ta famille, et le reste… Je sais tout."
+ 1 string ch_Answer1 = "你为什么这么想？你出生前我就在这了，你的家人，还有别的……我都知道。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

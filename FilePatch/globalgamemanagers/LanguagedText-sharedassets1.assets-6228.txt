@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1326
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Hayır, fakat oldukça hararetli bir konuşma olduğu kesin."
+ 1 string eng_Text = "No, ma era sicuramente una conversazione piuttosto accesa."
+ 1 string fr_Text = "Non, mais c'était certainement une conversation assez animée."
+ 1 string ch_Text = "没有，不过很明显他们的谈话很激烈。"
+ 1 string tr_Answer1 = "Anladım. Çok teşekkür ederim Kai. Senden son bir şey isteyeceğim. Bruce’u nerede bulabilirim? Sabahtan beri yok da."
+ 1 string eng_Answer1 = "Capisco. Grazie, Kai. Ti chiederò un'ultima cosa. Dove posso trovare Bruce? Non si vede in giro da stamattina."
+ 1 string fr_Answer1 = "Je comprends. Merci, Kai. Je vais demander une dernière chose. Où puis-je trouver Bruce ? Il n'est pas dans les parages depuis ce matin."
+ 1 string ch_Answer1 = "我懂了。谢谢你，凯。我最后再问一件事，布鲁斯在哪？早上之后在附近就没见到他。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1361
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Bunu nereden bilebiliriz?! Ve suçluyu nasıl bu kadar anlayabilirsin ki?"
+ 1 string eng_Text = "Come possiamo esserne sicuri?! E come fai a capire così bene il colpevole?"
+ 1 string fr_Text = "Come possiamo esserne sicuri?! E come fai a capire così bene il colpevole?"
+ 1 string ch_Text = "我们怎么能确定不是他？！而且你怎么这么了解一个犯罪过的人？"
+ 1 string tr_Answer1 = "Ş-şey... Sadece tahmin yürüttüm."
+ 1 string eng_Answer1 = "A-ah... Era solo un'ipotesi."
+ 1 string fr_Answer1 = "A-ah... Era solo un'ipotesi."
+ 1 string ch_Answer1 = "啊……就是猜的。"
+ 1 string tr_Answer2 = "Ahaha, fazla tedirginsin… "
+ 1 string eng_Answer2 = "Ahahah, sei troppo nervoso..."
+ 1 string fr_Answer2 = "Ahahah, sei troppo nervoso..."
+ 1 string ch_Answer2 = "啊啊啊，你太神经兮兮的了……"

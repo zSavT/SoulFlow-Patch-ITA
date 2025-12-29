@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1297
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "N’oldu sessizsin bugün?"
+ 1 string eng_Text = "Come va, silenzioso oggi?"
+ 1 string fr_Text = "Come va, silenzioso oggi?"
+ 1 string ch_Text = "怎么了，今天怎么不说话？"
+ 1 string tr_Answer1 = "Sarhoşsun veya değilsin umrumda değil. İki türlü de ahmağın tekisin."
+ 1 string eng_Answer1 = "Non mi importa se sei ubriaco o no. In ogni caso sei un idiota."
+ 1 string fr_Answer1 = "Non mi importa se sei ubriaco o no. In ogni caso sei un idiota."
+ 1 string ch_Answer1 = "我不在乎你是不是喝醉了，不管醉没醉你都是个傻逼。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

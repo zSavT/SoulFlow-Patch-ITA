@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1315
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Bilmem, gayet sakin yürüyordu. Gariplik yok gibiydi. Ben en iyisi biraz da yürüyüşe çıkayım. Görüşürüz Rose…"
+ 1 string eng_Text = "Non lo so, camminava abbastanza tranquillamente. Non ho percepito nulla di strano. Sarà meglio che faccia una passeggiata. Ci vediamo, Rose..."
+ 1 string fr_Text = "Je ne sais pas, il marchait assez calmement. Je n'ai rien senti de bizarre. Ce serait mieux que je fasse une petite promenade. À plus, Rose..."
+ 1 string ch_Text = "我不知道，他走得很正常【。我没看出什么奇怪的地方。我最好四处走走。再见，萝丝……"
+ 1 string tr_Answer1 = "Görüşürüz Kai."
+ 1 string eng_Answer1 = "Ci vediamo, Kai."
+ 1 string fr_Answer1 = "À plus, Kai."
+ 1 string ch_Answer1 = "见，凯。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

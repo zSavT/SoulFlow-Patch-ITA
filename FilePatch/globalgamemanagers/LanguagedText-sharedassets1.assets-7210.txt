@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1452
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Kevin’ın nadir arkadaşlarından biri. Ailesi yok. Eskiden teknikerdi, fakat daha sonra sakatlandı. Mahalleli onu pek umursamaz, insanların konuştuğu birisi değil. Maddi durumu orta halli. O da Kevin gibi, değerlerini ön planda tutarak karar verir. Sosyal açıdan geri. İki nesil önce dedesi bu ülkeye taşınmış. Japon göçmeni. Cinayetleri onu pek sarsmadı. Kimsenin onu umursamadığının farkında."
+ 1 string eng_Text = "Uno dei rari amici di Kevin. Non ha una famiglia. Era un tecnico, poi è rimasto storpio. Al quartiere non importa molto di lui, non è qualcuno con cui la gente parla. Ceto medio. Proprio come Kevin, prende decisioni basate sui suoi valori. Socialmente impacciato. È stato il suo bisnonno a trasferirsi in questo paese. È un immigrato giapponese. Non è stato molto colpito dagli omicidi, sa che a nessuno importa di lui."
+ 1 string fr_Text = "Un des rares amis de Kevin. N'a pas de famille. Était un technicien, puis est devenu paralysé. Le quartier ne se soucie pas beaucoup de lui, il n’est pas quelqu'un à qui les gens parlent. Classe moyenne. Tout comme Kevin, il prend des décisions en fonction de ses valeurs. Mal-à-l'aise en société. C'est son arrière-grand-père qui a déménagé dans ce pays. Il est un immigrant japonais. N'a pas été très touché par les meurtres, sait que personne ne se soucie de lui."
+ 1 string ch_Text = "凯文少数几个朋友之一。没有家人。曾经是个技术员，后来残废了。邻居们并不是很关心他，不怎么和他说话。中产阶级。和凯文一样，以自己的价值观做决定。有点社恐。他的家族从曾祖父那代移居到这个国家，是日本移民。谋杀案对他的影响不大，他知道没人关心他。"
+ 1 string tr_Answer1 = ""
+ 1 string eng_Answer1 = ""
+ 1 string fr_Answer1 = ""
+ 1 string ch_Answer1 = ""
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

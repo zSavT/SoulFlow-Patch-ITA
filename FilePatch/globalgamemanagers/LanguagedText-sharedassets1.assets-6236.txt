@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1396
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Merhaba Pavlov. Aklanmışsın…"
+ 1 string eng_Text = "Ciao Pavlov. Sei stato assolto..."
+ 1 string fr_Text = "Bonjour Pavlov. Tu as été acquitté..."
+ 1 string ch_Text = "你好啊，巴甫洛夫。你被放出来了啊……"
+ 1 string tr_Answer1 = "Üzülür gibi söyledin."
+ 1 string eng_Answer1 = "Parli come se fossi turbato."
+ 1 string fr_Answer1 = "Tu parles comme si tu étais contrarié."
+ 1 string ch_Answer1 = "你好像很失望啊。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

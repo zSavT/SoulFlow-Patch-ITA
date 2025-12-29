@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1395
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Bruce'tan şüpheleniyorsun değil mi? Ben de… Bugün ilk defa ortalıklarda yoktu. Bir şey saklar gibi… "
+ 1 string eng_Text = "Sospetti di Bruce, vero? Anch'io, oggi per la prima volta non è nei paraggi. Come se nascondesse qualcosa..."
+ 1 string fr_Text = "Tu te méfies de Bruce, n'est-ce pas ? Moi aussi, aujourd'hui il n'est pas là pour la première fois. Comme s'il cachait quelque chose..."
+ 1 string ch_Text = "你怀疑布鲁斯，是不是？我也是，今天他第一次没在附近转悠。就好像他在隐瞒什么……"
+ 1 string tr_Answer1 = "Evet evet.. Bruce... Büyük bir şeyler saklıyor olmalı. Burada herkesin geçmişinde az çok kötü şeyler var. Fakat mükemmel gözüken tek kişi o. Hem de fazla sakin. "
+ 1 string eng_Answer1 = "Sì sì... Bruce... Deve nascondere qualcosa di grosso. Qui tutti hanno qualcosa di brutto nel passato, più o meno grande. Ma lui è l'unico che sembra perfetto. Ed è anche troppo calmo."
+ 1 string fr_Answer1 = "Ouais. Bruce... Il doit cacher quelque chose de gros. Tout le monde ici a quelque chose de mauvais dans son passé, peu importe la taille. Mais il est le seul qui semble parfait. Il est aussi beaucoup trop calme."
+ 1 string ch_Answer1 = "是的，布鲁斯……他肯定在隐瞒什么大事。这里的每个人过去都有污点，或大或小。但他是唯一一个看起来完美的人。而且他太冷漠了。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

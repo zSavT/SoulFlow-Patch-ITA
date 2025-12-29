@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1430
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Koluna n’oldu?!"
+ 1 string eng_Text = "Cosa è successo al tuo braccio?!"
+ 1 string fr_Text = "Qu'est-ce qui est arrivé à ton bras ?!"
+ 1 string ch_Text = "你的胳膊怎么了？！"
+ 1 string tr_Answer1 = "Hiçbir şey."
+ 1 string eng_Answer1 = "Niente."
+ 1 string fr_Answer1 = "Rien."
+ 1 string ch_Answer1 = "没什么。"
+ 1 string tr_Answer2 = "Kasapta et keserken yanlışlıkla oldu."
+ 1 string eng_Answer2 = "Solo un incidente che ho avuto in macelleria."
+ 1 string fr_Answer2 = "Juste un accident que j'ai eu à la boucherie."
+ 1 string ch_Answer2 = "就是在肉店出了点意外。"

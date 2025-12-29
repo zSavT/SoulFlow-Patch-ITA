@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1386
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "………………………!!!!!?........................"
+ 1 string eng_Text = "………………………!!!!!?........................"
+ 1 string fr_Text = "………………………!!!!!?........................"
+ 1 string ch_Text = "………………………!!!!!?........................"
+ 1 string tr_Answer1 = "Baban… Baban ve Bruce uyuşturucu işindeydi. Çok büyük paralar kazanıyorlardı. Dostlukları da ilerlemişti. Baban da annen için öldürüldü. "
+ 1 string eng_Answer1 = "Tuo padre... Tuo padre e Bruce erano nel giro della droga. Stavano guadagnando molto. Erano anche buoni amici. Tuo padre è stato ucciso anche per tua madre."
+ 1 string fr_Answer1 = "Tuo padre... Tuo padre e Bruce erano nel giro della droga. Stavano guadagnando molto. Erano anche buoni amici. Tuo padre è stato ucciso anche per tua madre."
+ 1 string ch_Answer1 = "你的父亲…… 你的父亲和布鲁斯本来一起卖毒品，赚了很多钱。他们也是好朋友。你父亲也是因你母亲而死的。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

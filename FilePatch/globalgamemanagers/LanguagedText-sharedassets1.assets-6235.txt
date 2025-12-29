@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1323
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Hahah! Bir şey bildiğin yok. "
+ 1 string eng_Text = "Ahahah! Non sai niente. "
+ 1 string fr_Text = "Hahah ! Tu ne sais rien. "
+ 1 string ch_Text = "哈哈哈！你什么也不知道。"
+ 1 string tr_Answer1 = "Annenin mezarına gelme sebebin ne peki?"
+ 1 string eng_Answer1 = "Allora qual è il motivo per cui visiti la tomba di tua madre?"
+ 1 string fr_Answer1 = "Alors quelle est la raison de ta visite sur la tombe de ta mère ?"
+ 1 string ch_Answer1 = "那你为什么来你母亲的墓地？"
+ 1 string tr_Answer2 = "Eğer suçunu itiraf edersen seni vuran kişiyi öldürmene yardım ederim."
+ 1 string eng_Answer2 = "Se ammetti di essere colpevole, ti aiuterò a uccidere la persona che ti ha sparato."
+ 1 string fr_Answer2 = "Si tu admets être coupable, je t'aiderai à tuer la personne qui t'a tiré dessus."
+ 1 string ch_Answer2 = "如果你承认自己有罪，我会帮你杀了射你的人。"

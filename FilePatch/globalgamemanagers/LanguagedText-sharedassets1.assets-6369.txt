@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1275
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Ederim, ben avcılıkta ustayım korkma. Ama sakın aptalca bir şey yapma duydun mu?"
+ 1 string eng_Text = "Lo farò, non preoccuparti, sono un cacciatore esperto. Ma non fare nulla di avventato, hai sentito? Non ragioni lucidamente da un po'."
+ 1 string fr_Text = "Je le ferai, ne t’inquiète pas, je suis un chasseur expert. Mais ne fais rien d'imprudent, tu m’entends ? Tu n’as pas réfléchi correctement depuis longtemps. "
+ 1 string ch_Text = "我会的，别担心，做猎手，我是专业的。但是你别冲动行事，听见了吗？你这段时间都没想清楚。"
+ 1 string tr_Answer1 = "Duydum..."
+ 1 string eng_Answer1 = "Ho sentito."
+ 1 string fr_Answer1 = "J'ai entendu. "
+ 1 string ch_Answer1 = "我知道了。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

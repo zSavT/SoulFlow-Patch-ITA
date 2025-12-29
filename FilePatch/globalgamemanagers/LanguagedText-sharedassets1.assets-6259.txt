@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1408
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Hayır söylemedi. Sen ne soracaktın?"
+ 1 string eng_Text = "No, non l'ha fatto. Cosa volevi chiedere?"
+ 1 string fr_Text = "Non, elle ne l'a pas fait. Qu'est-ce que tu allais demander ?"
+ 1 string ch_Text = "没，她没说过。你想问什么？"
+ 1 string tr_Answer1 = "Önemsiz bir şey..."
+ 1 string eng_Answer1 = "Niente..."
+ 1 string fr_Answer1 = "Rien..."
+ 1 string ch_Answer1 = "没什么……"
+ 1 string tr_Answer2 = "Aslında... Bruce… "
+ 1 string eng_Answer2 = "In realtà... Bruce..."
+ 1 string fr_Answer2 = "En fait... Bruce..."
+ 1 string ch_Answer2 = "实际上……布鲁斯……"

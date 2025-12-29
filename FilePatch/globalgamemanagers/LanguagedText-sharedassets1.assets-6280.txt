@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1416
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Katil bensem bu gece kendinin öleceğini biliyorsun o halde. Aptal teorin çok yaklaştı çünkü."
+ 1 string eng_Text = "Allora sai che morirai stanotte se sono io l'assassino. Perché la tua stupida teoria ci è andata molto vicina."
+ 1 string fr_Text = "Alors tu sais que tu mourras toi-même ce soir si je suis le tueur. Parce que ta stupide théorie est devenue si proche."
+ 1 string ch_Text = "那你知道，如果我是凶手，你活不过今晚的。因为你愚蠢的推论离真相太近了。"
+ 1 string tr_Answer1 = "Biliyorum elbette. Fakat bunu söylersem beni öldürmen çok daha zor hale gelir diye dilini açıyorum. "
+ 1 string eng_Answer1 = "Certo che lo so. Ma ti sto facendo parlare dicendoti questo, rendendo più difficile per te uccidermi."
+ 1 string fr_Answer1 = "Bien sûr que je sais. Mais je te fais parler en te disant ça, ce qui rend plus difficile pour toi de me tuer."
+ 1 string ch_Answer1 = "我当然知道。但是我告诉你这些就能让你一直说下去，让你更难杀了我。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

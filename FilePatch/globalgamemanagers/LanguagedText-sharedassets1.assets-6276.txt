@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1258
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Bana güvenmiyorsan konuşacak başka bir şeyim kalmıyor. Yarın yine götürebilirler. Ama eminim ki yine aklanacağım. Görüşürüz, şimdilik..."
+ 1 string eng_Text = "Se non ti fidi di me, non ho altro da dirti a questo punto. Potrebbero riportarmi dentro domani. Ma so che sarò scagionato di nuovo. Ci vediamo, per ora..."
+ 1 string fr_Text = "Si tu ne me fais pas confiance, je n'ai plus rien à te dire à ce stade. Ils pourraient me reprendre demain. Mais je sais que je serai à nouveau innocenté. À plus, pour l'instant..."
+ 1 string ch_Text = "如果你不信任我，那我也无话可说了。他们可能明天就会把我抓回去。但是我知道我还会被证明是无辜的。再见，大概……"
+ 1 string tr_Answer1 = "..."
+ 1 string eng_Answer1 = "..."
+ 1 string fr_Answer1 = "..."
+ 1 string ch_Answer1 = "..."
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

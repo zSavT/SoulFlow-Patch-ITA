@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 2470
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Kevin’ın eşi, Bruce’un kardeşi bir ev hanımıdır. Mahalleliyle genellikle iyi geçinir, fakat fikirleri yüzünden tartıştıkları zamanlar da olur. Maddi durumu iyi değil. Sessiz ve sakin olmasına rağmen sosyal hayattan geri kalmaz. Karar verirken duygularını mantığından daha ön planda tutar. Bu yüzden Kevin ile sık sık tartışır. Üç yıl önce, yaşadıkları bir olaydan dolayı araları oldukça bozuldu. Tom ile yakınlardı. Clara, Tom’un cinayetinden sonra oldukça çöktü. -Belki korkudandır- o zamandan sonra evden çıkmamaya başladı."
+ 1 string eng_Text = "La moglie di Kevin, sorella di Bruce. Casalinga. Generalmente va d'accordo con la gente del posto. Ma ogni tanto hanno i loro litigi a causa delle loro idee. Non sono molto benestanti. Non è socialmente disadattata nonostante sia tranquilla. Dà priorità ai suoi sentimenti rispetto alla logica quando prende decisioni. Discute spesso con Kevin per questo motivo. Tre anni fa, hanno avuto un litigio a causa di un evento accaduto. Erano intimi con Tom, lei si è depressa dopo che lui è caduto vittima di un omicidio. Dopo l'omicidio, ha smesso di uscire di casa, forse per paura."
+ 1 string fr_Text = "La moglie di Kevin, sorella di Bruce. Casalinga. Generalmente va d'accordo con la gente del posto. Ma ogni tanto hanno i loro litigi a causa delle loro idee. Non sono molto benestanti. Non è socialmente disadattata nonostante sia tranquilla. Dà priorità ai suoi sentimenti rispetto alla logica quando prende decisioni. Discute spesso con Kevin per questo motivo. Tre anni fa, hanno avuto un litigio a causa di un evento accaduto. Erano intimi con Tom, lei si è depressa dopo che lui è caduto vittima di un omicidio. Dopo l'omicidio, ha smesso di uscire di casa, forse per paura."
+ 1 string ch_Text = "凯文的妻子，布鲁斯的妹妹。家庭妇女。平时和这里的人相处得不错，但是因为想法的冲突时不时会吵架。不是很富有。平时很文静，但社交能力没问题。在做决定时，她总是把直觉置于逻辑之上，因此和凯文没少吵过。三年前，因为发生了一件事，他们曾经吵得很凶。他们和汤姆关系很好，在汤姆被谋杀之后，她就陷入了抑郁。在谋杀案之后，她足不出户，可能是因为害怕。"
+ 1 string tr_Answer1 = ""
+ 1 string eng_Answer1 = ""
+ 1 string fr_Answer1 = ""
+ 1 string ch_Answer1 = ""
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

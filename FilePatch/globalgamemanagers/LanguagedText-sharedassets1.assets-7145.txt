@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1373
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "David bitti sen mi başladın velet. Senin de taşınman gerekecek galiba hağ! "
+ 1 string eng_Text = "Ne ho già avuto abbastanza con David, moccioso. Forse dovrai trasferirti anche tu, eh?!"
+ 1 string fr_Text = "J'en ai déjà assez avec David, morveux. Peut-être aurez-vous besoin de bouger aussi haah ?!"
+ 1 string ch_Text = "我跟大卫解释的够多了，混小子。难道你也想搬走吗？！"
+ 1 string tr_Answer1 = "?!"
+ 1 string eng_Answer1 = "?!"
+ 1 string fr_Answer1 = "?!"
+ 1 string ch_Answer1 = "?!"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

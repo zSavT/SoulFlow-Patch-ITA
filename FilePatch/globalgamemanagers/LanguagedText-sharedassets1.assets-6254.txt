@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1367
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Evet. Ama artık bu dostluğu bitirme vakti geldi. Ya ben mezara gireceğim ya da o. Ya da o hapise ben evime. Görüşürüz Mike! Baban çok iyi bir insandı…"
+ 1 string eng_Text = "Sì. Ma è ora di porre fine a questo cameratismo. O vengo sepolto io o lui. O lui va in prigione e io vado a casa. Ci vediamo, Mike! Tuo padre era una persona così buona..."
+ 1 string fr_Text = "Oui. Mais il est temps de mettre fin à cette camaraderie. Soit je me fais enterrer, soit c'est lui. Ou il va en prison et je rentre chez moi. À plus, Mike ! Ton père était une si bonne personne..."
+ 1 string ch_Text = "是的，但是是时候结束这段友情了。不是我死就是他亡，或者他进监狱，我回家。再见了，迈克！你的父亲是个好人……"
+ 1 string tr_Answer1 = "G-görüşürüz…"
+ 1 string eng_Answer1 = "Abbi cura di te... "
+ 1 string fr_Answer1 = "P-Prends soin de toi... "
+ 1 string ch_Answer1 = "保，保重……"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

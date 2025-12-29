@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1380
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Dalga geçmeyi bırak. Bruce ile kavgalı olduğunu biliyorum. Bu kavgadan dönmemen için sana bir şey söyleyeceğim: Bruce’un gerçek yüzünü…"
+ 1 string eng_Text = "Smettila di scherzare. So che sei ai ferri corti con Bruce. Ti dirò qualcosa per far continuare questa lite: Il vero Bruce..."
+ 1 string fr_Text = "Arrête de déconner. Je sais que tu es en froid avec Bruce. Je vais te dire quelque chose pour que cette dispute continue : Le vrai Bruce..."
+ 1 string ch_Text = "别捣乱了，我知道你和布鲁斯不对付，我再给你的火上浇点油吧：真正的布鲁斯……"
+ 1 string tr_Answer1 = "Söylemene gerek yok. Biliyorum."
+ 1 string eng_Answer1 = "Non devi dirlo. Lo so."
+ 1 string fr_Answer1 = "Tu n'as pas besoin de le dire. Je sais."
+ 1 string ch_Answer1 = "你不必说，我知道。"
+ 1 string tr_Answer2 = "Ne söyleyeceksin?"
+ 1 string eng_Answer2 = "Cosa dirai?"
+ 1 string fr_Answer2 = "Qu'est-ce que tu vas dire ?"
+ 1 string ch_Answer2 = "你要说什么？"

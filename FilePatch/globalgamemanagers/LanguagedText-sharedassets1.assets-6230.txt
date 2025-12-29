@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1267
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "B-bu… adil değil… Beni çaresiz bıraktın."
+ 1 string eng_Text = "Q-Questo... Questo non è giusto... Mi hai lasciato disperato."
+ 1 string fr_Text = "C-C'est... Ce n'est pas juste... Tu m'as laissé désespéré."
+ 1 string ch_Text = "这……这是……这不公平……你这是想让我铤而走险。"
+ 1 string tr_Answer1 = "..."
+ 1 string eng_Answer1 = "..."
+ 1 string fr_Answer1 = "..."
+ 1 string ch_Answer1 = "..."
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

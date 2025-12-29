@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1270
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Bana sorarsan geç bile kaldım. Kasapta çalışıyor mu dersin, yoksa hala ortalıkta bulunmaması mı? Çok şüpheli…"
+ 1 string eng_Text = "Se lo chiedi a me, sono già in ritardo. Che ne pensi, lavora ancora dal macellaio o non si vede ancora in giro? È molto sospetto..."
+ 1 string fr_Text = "Si tu veux mon avis, je suis déjà en retard. Qu'en penses-tu, travaille-t-il toujours à la boucherie ou n'est-il toujours pas dans les parages ? C'est très suspect..."
+ 1 string ch_Text = "要我说，我已经迟到了。你觉得呢，他在肉店上班吗，还是他仍旧不在？太可疑了…"
+ 1 string tr_Answer1 = "Yine ahmakça davranıyorsun David."
+ 1 string eng_Answer1 = "Ti stai comportando di nuovo come uno sciocco, David."
+ 1 string fr_Answer1 = "Tu te comportes encore comme un idiot, David."
+ 1 string ch_Answer1 = "你又犯傻了，大卫。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1348
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "N’aber Doğulu! Pek görünmüyorsun buralarda artık. İpek yolu git gel sürüyordur herhalde ahahaha! "
+ 1 string eng_Text = "Come va, Orientale! Non ti si vede più da queste parti. Forse fare avanti e indietro lungo la via della seta richiede un po' di tempo ahahaha!"
+ 1 string fr_Text = "Quoi de neuf, l'Oriental ! On ne te voit plus dans le coin. Peut-être que les allers-retours sur la route de la soie prennent du temps ahahaha !"
+ 1 string ch_Text = "怎么了，东方人！最近这一带再也没看见你啊，也许在丝绸之路上打个来回很费时间啊哈哈哈哈哈哈哈！"
+ 1 string tr_Answer1 = "… (Komik olduğunu mu sanıyor?) "
+ 1 string eng_Answer1 = "... (Pensa di essere divertente?)"
+ 1 string fr_Answer1 = "... (Il pense être drôle ?)"
+ 1 string ch_Answer1 = "……（他是不是觉得自己很幽默？）"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

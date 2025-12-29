@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1409
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Seni ahmak! Dikkat et, eşyalarınla beraber bedenin de taşınmasın!.."
+ 1 string eng_Text = "Imbecille! Attento, non lasciare che il tuo corpo venga portato via insieme ai tuoi mobili."
+ 1 string fr_Text = "Imbécile ! Fais attention, ne laisse pas ton corps déménager avec tes meubles."
+ 1 string ch_Text = "你个蠢货！你可长点心吧，别没等家具搬完呢你先横着出来了。"
+ 1 string tr_Answer1 = "Ahahah! Demek öyle… (Çok sinirlendiği belli.) "
+ 1 string eng_Answer1 = "Ahahah! Allora è così... (È ovvio che si sta arrabbiando molto.)"
+ 1 string fr_Answer1 = "Ahahah ! C'est donc ça... (Il est évident qu'il se met vraiment en colère.)"
+ 1 string ch_Answer1 = "啊啊啊！别说了……（很明显他已经非常生气了。）"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

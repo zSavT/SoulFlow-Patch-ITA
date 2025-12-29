@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1426
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Frank olmalı… Cevap vermediğine göre hepsini öldürüp intihar edeceğim. Hağhağ!"
+ 1 string eng_Text = "Deve essere stato Frank... Dato che non risponde, li ucciderò tutti e mi suiciderò. Ahah ahah!"
+ 1 string fr_Text = "Alors, ça devait être Frank ! Je devrais aller préparer mon arme... Haah haah !"
+ 1 string ch_Text = "那一定是弗兰克干的！我应该去准备好我的枪……哈哈哈哈！"
+ 1 string tr_Answer1 = "..."
+ 1 string eng_Answer1 = "..."
+ 1 string fr_Answer1 = "..."
+ 1 string ch_Answer1 = "..."
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

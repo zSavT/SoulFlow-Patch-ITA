@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1278
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Geçmiş olsun Mike. 5 sene de çalışsan hata yapabiliyormuşsun demek ki."
+ 1 string eng_Text = "Rimettiti presto Mike. Sembra che tu possa commettere errori anche dopo aver lavorato per cinque anni eh."
+ 1 string fr_Text = "J'espère que ça ira mieux bientôt Mike. On dirait que tu peux faire des erreurs même après avoir travaillé pendant cinq ans hein."
+ 1 string ch_Text = "希望你早点痊愈，迈克。看来就算是工作五年了，你也会犯错哈。"
+ 1 string tr_Answer1 = "Evet. Ben de yeni öğrendim. Şey Kai, Bruce ne zamandır beri yok?"
+ 1 string eng_Answer1 = "Sì. L'ho appena capito anch'io. Il fatto è, Kai, da quanto tempo è scomparso Bruce?"
+ 1 string fr_Answer1 = "Ouais. Je viens aussi de comprendre ça. Le truc, Kai, c'est depuis combien de temps Bruce a disparu ?"
+ 1 string ch_Answer1 = "嗯，我也是才搞明白。凯，现在的问题是，布鲁斯失踪多久了？"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

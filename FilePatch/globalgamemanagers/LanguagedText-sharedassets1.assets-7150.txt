@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1337
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Görüşürüz Kai, taşınıyorum."
+ 1 string eng_Text = "Ci vediamo dopo Kai, mi trasferisco."
+ 1 string fr_Text = "A plus tard Kai, je déménage."
+ 1 string ch_Text = "再见，凯，我要搬家了。"
+ 1 string tr_Answer1 = "Görüşürüz David. (Bana ne taşınıyorsan)"
+ 1 string eng_Answer1 = "Ci vediamo David. (Non me ne frega niente.)"
+ 1 string fr_Answer1 = "A plus tard, David. (Je m'en fous.)"
+ 1 string ch_Answer1 = "再见，大卫。（鬼才在乎你。）"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

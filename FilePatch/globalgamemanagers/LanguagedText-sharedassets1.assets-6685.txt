@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1377
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Sağ ol Rose. Maalesef, görmedim. Oldu olası böyle garip huyları var."
+ 1 string eng_Text = "Grazie Rose. Purtroppo non l'ho visto. Ha sempre avuto quelle strane abitudini."
+ 1 string fr_Text = "Merci Rose. Malheureusement, je ne l'ai pas vu. Il avait eu toujours celles habitudes étranges."
+ 1 string ch_Text = "谢谢你，萝丝。实在不巧，我没看见过他。他的行事作风一直那么奇怪。"
+ 1 string tr_Answer1 = "Umarım büyük bir şey değildir."
+ 1 string eng_Answer1 = "Spero che non sia una cosa grave."
+ 1 string fr_Answer1 = "J'espère que ce n'est pas si grave."
+ 1 string ch_Answer1 = "我希望不是什么大事。"
+ 1 string tr_Answer2 = "İçime kötü bir şeyler doğdu sen konuştukça."
+ 1 string eng_Answer2 = "Ho iniziato a preoccuparmi mentre parli."
+ 1 string fr_Answer2 = "J'ai commencé à avoir des doutes comme tu parle."
+ 1 string ch_Answer2 = "你这么说搞得我开始有点担心了。"
