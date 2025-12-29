@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1393
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Pavlov’u özledin yani."
+ 1 string eng_Text = "So you miss Pavlov."
+ 1 string fr_Text = "Alors, Pavlov te manque."
+ 1 string ch_Text = "那你会想念巴甫洛夫。"
+ 1 string tr_Answer1 = "Hayır, ne alaka?!"
+ 1 string eng_Answer1 = "No, what do you mean?"
+ 1 string fr_Answer1 = "Non, qu'est-ce que tu raconte ?"
+ 1 string ch_Answer1 = "不，你什么意思？"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

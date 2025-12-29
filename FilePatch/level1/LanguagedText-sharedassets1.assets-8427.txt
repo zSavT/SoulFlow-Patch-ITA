@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1368
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Hayır, biliyorum. Artık gitmelisin. "
+ 1 string eng_Text = "No, I know. You've gotta go. "
+ 1 string fr_Text = "Non, je sais. Tu dois y aller."
+ 1 string ch_Text = "不，我知道了。你赶紧走吧。"
+ 1 string tr_Answer1 = "Hayır. Gitmiyorum. Bana ne olduğunu anlat, en azından bir şey söyle. Yoksa polis çağırırım."
+ 1 string eng_Answer1 = "No. I'm not leaving. Tell me what exactly happened, or at least something. Or I'll call the police."
+ 1 string fr_Answer1 = "Non. Je ne pars pas. Dis-moi exactement ce qui s'est passé, ou du moins dis-moi quelque chose. Ou j'appelle la police."
+ 1 string ch_Answer1 = "不，我不走。告诉我到底发生了什么，或者至少说点什么。不然我就报警了。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1407
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Eee, öyleydik. Neyse, yaşadığına göre Bruce’u bulmam gerekiyor. "
+ 1 string eng_Text = "Yeah, we were. Whatever, if you're alive then I have to find Bruce."
+ 1 string fr_Text = "Oui, nous l'étions. Peu importe, si tu es en vie alors je dois trouver Bruce. "
+ 1 string ch_Text = "是的，我们以前是。无论如何，如果你活着，我就得去找布鲁斯了。"
+ 1 string tr_Answer1 = "Neden? (Yoksa o da mı işin içinde?)"
+ 1 string eng_Answer1 = "Why? (Is he in on this too?)"
+ 1 string fr_Answer1 = "Pourquoi? (Est-il là-dessus aussi?)	"
+ 1 string ch_Answer1 = "为什么？（他也和这事有关？）"
+ 1 string tr_Answer2 = "Dikkat et! "
+ 1 string eng_Answer2 = "Be cautious! "
+ 1 string fr_Answer2 = "Soye prudent! "
+ 1 string ch_Answer2 = "小心点！"

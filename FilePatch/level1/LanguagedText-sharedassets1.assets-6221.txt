@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1302
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Emin ol Frank senden daha şüphelidir..."
+ 1 string eng_Text = "I assure you that Frank is much more suspicious than you are…"
+ 1 string fr_Text = "Je t'assure que Frank est plus suspicieux que tu es..."
+ 1 string ch_Text = "我向你保证弗兰克比你的嫌疑大多了……"
+ 1 string tr_Answer1 = "Neden ki?"
+ 1 string eng_Answer1 = "Why?"
+ 1 string fr_Answer1 = "Pourquoi ?"
+ 1 string ch_Answer1 = "为什么？"
+ 1 string tr_Answer2 = "Biliyorum, ama insan yine de kötü hissediyor."
+ 1 string eng_Answer2 = "I know but it still makes you feel bad."
+ 1 string fr_Answer2 = "Je sais mais c'est encore te faire sentir mal."
+ 1 string ch_Answer2 = "我知道，但是还是会让人觉得不舒服。"

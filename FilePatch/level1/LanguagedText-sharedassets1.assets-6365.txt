@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1402
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Neden? Serbest kaldın diye artık beni öldürebileceğini mi sandın haha."
+ 1 string eng_Text = "Why? Thought you could kill me because you got freed?"
+ 1 string fr_Text = "Pourquoi ? Tu pensais que tu pourrais me tuer parce que tu as été libéré ?"
+ 1 string ch_Text = "为什么？因为你被释放了所以会杀了我？"
+ 1 string tr_Answer1 = "Katilin ben olmadığımı sen de biliyorsun. Yalnızca… Her ne kadar dışarıdan acımasız biri gibi gözüksem de bil ki hala içimde yatan iyi biri var.  Geçmişimi ve hüznümü alkole gömüyor oluşum bu durumu değiştirmiyor."
+ 1 string eng_Answer1 = "You too know that I am not the killer. Just… Even though I look wicked from the outside, know that I have good in me.  Drowning my past and my sorrows in alcohol doesn't change this."
+ 1 string fr_Answer1 = "Tu sais aussi que je ne suis pas le meurtrier. Juste… Même si j'ai l'air méchant de l'extérieur, sache que j'ai du bon cœur.  Noyer mon passé et mes peines dans l'alcool n'y change rien."
+ 1 string ch_Answer1 = "你也知道我不是凶手。只是……虽然我从外表看起来很邪恶，但你要知道我是好人。用酒精淹没我的过去和悲伤并不能改变这一点。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1355
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Annem hakkında hiçbir şey bilmiyorsun! Bu onun mezarı bile değil! Onu sakın ağzına alma, sakın!"
+ 1 string eng_Text = "You know nothing about my mother! This isn't even her grave! Don't you even dare speak her name, never!"
+ 1 string fr_Text = "Tu ne sais rien de ma mère ! Ce n'est même pas sa tombe ! N'ose même pas dire son nom, surtout pas !"
+ 1 string ch_Text = "你一点也不了解我的母亲！这甚至不是她的墓！不许你再提起她的名字，永远不能！"
+ 1 string tr_Answer1 = "İnkar etmene gerek yok. Bu kadar sinirlenmene de. Tamam almayacağım. Hastaneye gitmezsen öleceksin."
+ 1 string eng_Answer1 = "You don't have to deny it. Nor do you have to get this angry. Okay, I won't. You'll die if you don't get to a hospital."
+ 1 string fr_Answer1 = "Tu n'as pas à le nier. Tu n'as pas non plus besoin de te mettre en colère. D'accord, je ne le ferai pas. Tu mourras si tu ne vas pas à l’hôpital"
+ 1 string ch_Answer1 = "你不必否认，也不必这么生气。好吧，我不说了。如果你不去医院，你会死的。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

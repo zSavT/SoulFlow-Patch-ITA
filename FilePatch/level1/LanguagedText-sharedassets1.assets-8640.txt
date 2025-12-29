@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1399
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "S-Sen! Ne kadar alçaksın! Geberip git David!"
+ 1 string eng_Text = "Y-You! How low can you get? Go die, David!"
+ 1 string fr_Text = "T-tu ! C’est d’une bassesse ? Va mourir, David !"
+ 1 string ch_Text = "你，你！你还能再没品一点吗？去死吧，大卫！"
+ 1 string tr_Answer1 = "Bağırmamalısın. Gerçekten katil olmasan bu kadar kötü hissetmezdin herhalde. Değil mi?"
+ 1 string eng_Answer1 = "You shouldn't be yelling. I don't think you'd get so offended if you weren't really a killer. Right?"
+ 1 string fr_Answer1 = "Tu ne dois pas crier. Je ne pense pas que tu serais si offensé si tu n'étais pas vraiment un meurtrier. Non ?"
+ 1 string ch_Answer1 = "你不应该大喊大叫。你不会是做贼心虚了吧？"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

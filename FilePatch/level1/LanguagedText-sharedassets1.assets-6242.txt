@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1432
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Bu dediklerin de rol mü?"
+ 1 string eng_Text = "Is this also part of the play?"
+ 1 string fr_Text = "Cela fait-il aussi partie du jeu?"
+ 1 string ch_Text = "这也是演出的一部分吗？"
+ 1 string tr_Answer1 = "Ah… Kendine dikkat et Frank. Evinin yedek anahtarı çekmecende değil. Ama sorumlu ben değilim."
+ 1 string eng_Answer1 = "Ah… Take care of yourself Frank. Your spare key is no longer in your drawer. But I'm not responsible. "
+ 1 string fr_Answer1 = "Ah… Prends soin de toi Frank. Ta clé de rechange n'est plus dans ton tiroir. Mais je ne suis pas responsable. "
+ 1 string ch_Answer1 = "啊……照顾好自己，弗兰克。你的备用钥匙不在你的抽屉里了，但不是我拿的。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

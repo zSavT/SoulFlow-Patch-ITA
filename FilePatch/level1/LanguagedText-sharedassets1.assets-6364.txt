@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1330
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Frank’in tabancası çalınmış..."
+ 1 string eng_Text = "Frank's pistol was stolen."
+ 1 string fr_Text = "Le pistolet de Frank a été volé."
+ 1 string ch_Text = "弗兰克的手枪被偷了。"
+ 1 string tr_Answer1 = "Bunun benimle ne alakası var?"
+ 1 string eng_Answer1 = "What does this have to do with me?"
+ 1 string fr_Answer1 = "Qu'est-ce que ca a avoir avec moi ?"
+ 1 string ch_Answer1 = "这和我有什么关系？"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

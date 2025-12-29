@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1381
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Ne diyorsun sen be!"
+ 1 string eng_Text = "What the hell are you talking about!"
+ 1 string fr_Text = "Qu'est-ce que tu radotes ?"
+ 1 string ch_Text = "你他妈说什么！"
+ 1 string tr_Answer1 = "Bak Kevin, Mikey’e çok yüklenmiş olabilirim. Haklısın. Fakat her şey ortaya çıkınca beni anlayacaksın. O gün de ben burada olmayacağım."
+ 1 string eng_Answer1 = "Look Kevin, I may have been too hard on Mikey. You are right. But you will understand me when it all comes out. And I won't be here that day."
+ 1 string fr_Answer1 = "Regarde Kevin, peut-être j'étais vraiment dur pour Mikey. Tu as raison. Mais tu vas me comprendras lorsque tous se montrera. Et je ne sera pas ici ce jour-là."
+ 1 string ch_Answer1 = "听着，凯文，也许我之前对米奇太不友好了，你说的对。但是等一切真相大白，你会懂我的，到时候我也就不在这了。"
+ 1 string tr_Answer2 = "Clara... Bir kez daha benimle saygısızca konuşursan Bruce’a, Clara’ya şiddet uyguladığını söylerim."
+ 1 string eng_Answer2 = "Clara… If you talk disrespectfully to me one more time, I'll tell Bruce that you were violent against Clara."
+ 1 string fr_Answer2 = "Clara... Si je parle irrespectueusement à moi une fois encore, je dirai à Bruce que tu as recouru à la violence contre Clara."
+ 1 string ch_Answer2 = "克拉拉……如果你下次再这样粗鲁地跟我说话，我就告诉布鲁斯你之前对克拉拉动过手。"

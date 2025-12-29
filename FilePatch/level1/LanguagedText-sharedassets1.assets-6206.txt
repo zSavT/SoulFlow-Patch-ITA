@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1374
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Hayır görmedim. Sen neden soruyorsun onu?"
+ 1 string eng_Text = "No, I haven't. Why are you asking?"
+ 1 string fr_Text = "Non, je ne l’ai pas vue. Pourquoi me demandes-tu cela ?"
+ 1 string ch_Text = "没，没看见。你为什么问他？"
+ 1 string tr_Answer1 = "Seni ilgilendirmez."
+ 1 string eng_Answer1 = "None of your concern. "
+ 1 string fr_Answer1 = "Ce n'est pas ton problème."
+ 1 string ch_Answer1 = "关你屁事。"
+ 1 string tr_Answer2 = "Mikey ve o, dün geceden beri yoklar… "
+ 1 string eng_Answer2 = "Mikey and him, they've been missing since last night. "
+ 1 string fr_Answer2 = "Mikey et lui ont disparu depuis la nuit dernière."
+ 1 string ch_Answer2 = "昨晚之后，他和米奇就不见了。"

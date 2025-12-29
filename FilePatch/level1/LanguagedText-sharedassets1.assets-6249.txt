@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1385
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Anladım. Ben de bugün için izin almıştım. Bir gün de neler oluyor mahallede görmek istedim."
+ 1 string eng_Text = "I see. I also took the day off from work just for today. I wanted to see what happens on the neighborhood in one day."
+ 1 string fr_Text = "Je vois. J'ai aussi pris un jour de congé du travail mais seulement pour aujourd'hui. J'ai voulu de ce qui se passe dans le quartier en un jour."
+ 1 string ch_Text = "我知道了。我今天也请假了没去上班。我想看看一天内社区里的人都在干什么。"
+ 1 string tr_Answer1 = "Neler oluyormuş peki?.."
+ 1 string eng_Answer1 = "So, what happens?"
+ 1 string fr_Answer1 = "Alors, ce qui se passe ?"
+ 1 string ch_Answer1 = "那么，他们在干什么？"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

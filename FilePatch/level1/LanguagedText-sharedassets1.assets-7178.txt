@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1390
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Aaa! David, duyduğuma göre taşınıyormuşsun. Bunu duyduğuma gerçekten üzüldüm. Boşluğunu kimse dolduramayacak..."
+ 1 string eng_Text = "Oh! I heard you are moving out, David. I'm really sorry to hear it. No one will fill your place."
+ 1 string fr_Text = "Oh! J'ai entendu que tu déménage, David. Je suis vraiment désolé d'entendre ça. Personne remplira ta place."
+ 1 string ch_Text = "哦！我听说你要搬家了，大卫。听到这个消息我很遗憾，你是无可替代的。"
+ 1 string tr_Answer1 = "Evet Rose, maalesef. Ben de istemezdim ama sonraki cinayete kurban olmak istemiyorum. Gidince şüpheli olacağım galiba."
+ 1 string eng_Answer1 = "Yeah Rose, unfortunately. I also don't want to leave but I don't want to be a victim of the next murder. I think all eyes will be on me when I leave."
+ 1 string fr_Answer1 = "Le meurtre. Je pense que tous les yeux seront sur moi quand je sors."
+ 1 string ch_Answer1 = "没错，萝丝，很不幸是真的。我也不想走，但是我不想做下一个被杀的受害者。我想等我走的时候，人们都会盯着我。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1260
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Evet, gerçekten çalışınca bitiyor. O serseri gibi haylaz haylaz dolaşmıyorum."
+ 1 string eng_Text = "Yeah, things get done when you work really hard. I'm not wandering around like that punk."
+ 1 string fr_Text = "Ouais, les choses sont faits quand tu travailles vraiment beaucoup. Je ne me pas balade comme ce punk."
+ 1 string ch_Text = "没错，当你真的努力工作时，办事就是快。我不像那个废物一样到处闲逛。"
+ 1 string tr_Answer1 = "Kimmiş o serseri? "
+ 1 string eng_Answer1 = "Who is that punk?"
+ 1 string fr_Answer1 = "Qui est ce punk ?"
+ 1 string ch_Answer1 = "那个废物是谁？"
+ 1 string tr_Answer2 = "Laflarına dikkat et, insanları hızlı yargılıyorsun."
+ 1 string eng_Answer2 = "Watch your mouth, you judge people really fast."
+ 1 string fr_Answer2 = "Surveille ton langage, tu juges les gens vraiment rapide."
+ 1 string ch_Answer2 = "嘴巴干净点，你太以貌取人了。"

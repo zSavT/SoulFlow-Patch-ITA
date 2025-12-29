@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1785
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Bedenin ölmesi ise ruhun özgür kalması demektir"
+ 1 string eng_Text = "La morte del corpo significa la liberazione dell'anima"
+ 1 string fr_Text = "La mort du corps signifie la libération de l'âme "
+ 1 string ch_Text = "身体的死亡意味着灵魂的解放"
+ 1 string tr_Answer1 = ""
+ 1 string eng_Answer1 = ""
+ 1 string fr_Answer1 = ""
+ 1 string ch_Answer1 = ""
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

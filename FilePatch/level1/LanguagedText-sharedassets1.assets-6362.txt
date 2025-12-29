@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1370
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Katilin kim olduğu açığa çıkınca beni anlayacaksın Kevin. Pavlov gözaltında ama onun suçlu olmadığı o kadar açık ki."
+ 1 string eng_Text = "Mi capirai quando l'assassino verrà rivelato, Kevin. Pavlov è in custodia, ma è così ovvio che non è colpevole."
+ 1 string fr_Text = "Tu me comprendras quand le meurtrier sera apparu, Kevin. Pavlov est en garde à vue, mais c'est très claire que il n'est pas coupable."
+ 1 string ch_Text = "等凶手被揭穿的时候，你会理解我的，凯文。巴甫洛夫被抓起来了，但是显而易见，他是无罪的。"
+ 1 string tr_Answer1 = "Hiçbir şeyin açık olduğu falan yok, Tom’un cesedi onun evinde bulundu. Kesinlikle katil o. Ben artık gidiyorum."
+ 1 string eng_Answer1 = "Non c'è nulla di ovvio, il cadavere di Tom è stato trovato a casa sua. È sicuramente lui l'assassino. Ora me ne vado."
+ 1 string fr_Answer1 = "Rien est clair du tout, le corps de Tom était trouvé chez lui. Il est certainement le meurtrier. Je vais sortir bientôt."
+ 1 string ch_Answer1 = "没什么是显而易见的，汤姆的尸体在他家里被发现。他肯定就是凶手。我得走了。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

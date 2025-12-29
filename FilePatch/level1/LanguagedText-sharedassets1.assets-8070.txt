@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1431
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Hah! Kim olacak, Mikey tabii ki."
+ 1 string eng_Text = "Hah! Who do you think? Mikey of course."
+ 1 string fr_Text = "Ah! À qui tu pense? Mikey bien sûr."
+ 1 string ch_Text = "哈！你觉得是谁？当然是米奇。"
+ 1 string tr_Answer1 = "Yine ahmakça davranıyorsun David."
+ 1 string eng_Answer1 = "You are being such a fool again, David."
+ 1 string fr_Answer1 = "Tu deviens tellement un idiot encore, David."
+ 1 string ch_Answer1 = "你又犯傻了，大卫。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

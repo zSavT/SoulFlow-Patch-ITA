@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1285
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "B-bu gerçek olamaz… Bu, olamaz..! "
+ 1 string eng_Text = "This- This can't be true… This, can't…!"
+ 1 string fr_Text = "Ça- Ça ne peut pas être vrai… Ça, ça ne peut pas… !"
+ 1 string ch_Text = "这……这不可能……这，不能……！"
+ 1 string tr_Answer1 = "Dediklerim yalansa bu gece beni öldür… Neyse, çok konuştum. Ben gideyim."
+ 1 string eng_Answer1 = "Kill me tonight if I'm lying… Anyhow, I talked enough. I should leave."
+ 1 string fr_Answer1 = "Tue-moi ce soir si je mens… Quoi qu'il en soit, j'ai assez parlé. Je devrais partir."
+ 1 string ch_Answer1 = "如果我撒谎，今晚就杀了我……无论如何，我说的够多了。我应该走了。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

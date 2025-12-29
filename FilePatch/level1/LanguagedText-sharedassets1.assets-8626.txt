@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1283
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Dikkat et Kevin, katil hala dışarıda. Pek tenha yerlerde dolaşma. Hahaha! "
+ 1 string eng_Text = "Be careful Kevin, the murderer is still out there. Don't wander around where there aren't many people. Hahaha!"
+ 1 string fr_Text = "Fait attention Kevin, le meurtrier est encore là-dehors. Ne te balade pas trop où il n'y a pas les gens. Hahaha!"
+ 1 string ch_Text = "小心啊，凯文，凶手还在逍遥法外。不要去人少的地方闲逛。哈哈哈！"
+ 1 string tr_Answer1 = "..."
+ 1 string eng_Answer1 = "..."
+ 1 string fr_Answer1 = "..."
+ 1 string ch_Answer1 = "..."
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

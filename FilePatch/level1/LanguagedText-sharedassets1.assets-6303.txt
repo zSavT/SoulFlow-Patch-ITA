@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1288
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "İçine atıyordun demek… Neyse, rahatımı bozma ve git artık bu mekândan."
+ 1 string eng_Text = "So, you were bottling it up… Anyway, don’t kill my mood and just leave this place."
+ 1 string fr_Text = "Donc, tu étais en train de garder tout ça pour toi... Bref, ne me démoralise pas, quitte cet endroit."
+ 1 string ch_Text = "看来你之前一直在忍着啊……反正你别影响我的好心情，赶紧滚吧。"
+ 1 string tr_Answer1 = "Gitmeden sormam gerek. Bruce’u gördün mü?"
+ 1 string eng_Answer1 = "Before I leave. Have you seen Bruce?"
+ 1 string fr_Answer1 = "Avant que je parte. As-tu vu Bruce ?"
+ 1 string ch_Answer1 = "在我离开之前，你看见过布鲁斯吗？"
+ 1 string tr_Answer2 = "Pislik herif…"
+ 1 string eng_Answer2 = "Worthless jerk…"
+ 1 string fr_Answer2 = "Crétin sans valeur..."
+ 1 string ch_Answer2 = "没用的混蛋……"

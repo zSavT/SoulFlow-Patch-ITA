@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1342
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Bilmem Kevin, herkes farklı kişilerden şüpheleniyor. Fikrimi kendime saklamam daha doğru olur."
+ 1 string eng_Text = "I don't know Kevin, everyone suspects another. It would be better if I keep my opinion to myself."
+ 1 string fr_Text = "Je ne sais pas Kevin, tout le monde soupçonnent qu'une autre. Ce sera meilleur que je prends mon avis pour moi."
+ 1 string ch_Text = "我不知道，凯文，每个人都有怀疑的对象。我觉得我还是保留自己的想法好一些。"
+ 1 string tr_Answer1 = "(Ah... Demek öyle Kai.) Ben de gideyim o zaman. Öğreneceğim bir şey yok nasıl olsa."
+ 1 string eng_Answer1 = "(Ah… So that’s how it is Kai.) OK then, I will be going. There is nothing for me to learn anyways."
+ 1 string fr_Answer1 = "(Ah… Donc c'est comment Kai va.) Alors d'accord, j'irai. Il n'y a pas rien d'apprendre pour moi de toute façon."
+ 1 string ch_Answer1 = "（啊……凯就是这样。）那好吧，我这就走。反正我在这也了解不到什么东西。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

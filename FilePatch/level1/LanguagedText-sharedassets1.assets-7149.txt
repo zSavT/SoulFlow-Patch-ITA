@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1259
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Sen, Bruce ve sen bir anda yok oldunuz?"
+ 1 string eng_Text = "Bruce and you disappeared at the same time?"
+ 1 string fr_Text = "Bruce et toi vous avez disparu en même temps ?"
+ 1 string ch_Text = "你和布鲁斯是同时消失的？"
+ 1 string tr_Answer1 = "Bruce oldu, benim bir yere gittiğim yok."
+ 1 string eng_Answer1 = "Bruce did, I didn't go anywhere."
+ 1 string fr_Answer1 = "Bruce l'a fait, je ne suis allé nulle part."
+ 1 string ch_Answer1 = "布鲁斯消失了，我哪也没去。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

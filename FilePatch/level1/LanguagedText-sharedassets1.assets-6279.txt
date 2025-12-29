@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1397
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Başın tekrardan sağ olsun Rose. William iyi birisiydi."
+ 1 string eng_Text = "Again, I'm sorry for your loss, Rose. William was a good man."
+ 1 string fr_Text = "Encore, je suis désolé pour ta perte. William était une bonne personne."
+ 1 string ch_Text = "我对你失去亲人再次表示遗憾，萝丝。威廉是个好人。"
+ 1 string tr_Answer1 = "Kai, lütfen bu konuyu kapatalım."
+ 1 string eng_Answer1 = "Kai, let’s not open this topic again, please."
+ 1 string fr_Answer1 = "Kai, n'abordes pas ce sujet de nouveau, s'il te plaît."
+ 1 string ch_Answer1 = "凯，请不要再提起这件事了。"
+ 1 string tr_Answer2 = "E-evet. Öyleydi. Ben en iyisi gideyim, hava daha da kötü olmadan."
+ 1 string eng_Answer2 = "Y-Yeah. He was. I'd better go before the weather gets worse."
+ 1 string fr_Answer2 = "O-Ouais. Il était. C'est meilleure si je sors avant il fera pire."
+ 1 string ch_Answer2 = "好……好吧，他确实是个好人。我最好在天气变坏前离开。"

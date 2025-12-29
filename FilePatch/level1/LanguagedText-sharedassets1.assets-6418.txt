@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1261
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Dün olanları duydun mu?"
+ 1 string eng_Text = "Did you hear what happened yesterday?"
+ 1 string fr_Text = "Avez-vous entendu ce qui s'est passé hier? "
+ 1 string ch_Text = "你听说昨天发生的事情了吗？"
+ 1 string tr_Answer1 = "Ne olmuş?"
+ 1 string eng_Answer1 = "What happened?"
+ 1 string fr_Answer1 = "Qu'est-il arrivé? "
+ 1 string ch_Answer1 = "发生了什么？"
+ 1 string tr_Answer2 = "Duydum tabii ki."
+ 1 string eng_Answer2 = "Heard, of course."
+ 1 string fr_Answer2 = "Entendu, bien sûr."
+ 1 string ch_Answer2 = "听到了，当然。"

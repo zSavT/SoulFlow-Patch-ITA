@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1329
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Tom’u ben öldürseydim şu anda seninle konuşuyor olmazdım. Onun dışında kim öldürebilir ki?"
+ 1 string eng_Text = "Had I killed Tom I wouldn't be here with you talking. Who could've done it except him?"
+ 1 string fr_Text = "Si j'avais tué Tom, je ne serais pas là avec toi en train de parler. Qui aurait pu le faire à part lui ?"
+ 1 string ch_Text = "如果我杀了汤姆，我就不会在这和你说话了。除了他，谁能干那事？"
+ 1 string tr_Answer1 = "Tom’u Clara için, William’ı da kumar borcun için..."
+ 1 string eng_Answer1 = "Tom for Clara, William for the gambling debt… "
+ 1 string fr_Answer1 = "Tom pour Clara, William pour la dette de jeu…"
+ 1 string ch_Answer1 = "因为克拉拉杀了汤姆，因为赌债杀了威廉……"
+ 1 string tr_Answer2 = "Tom’u para için, William’ı da öfkesinden öldüren Mikey..."
+ 1 string eng_Answer2 = "Tom for the money, and Mikey killed William in rage…"
+ 1 string fr_Answer2 = "Tom pour l'argent, et Mikey a tué William de rage…"
+ 1 string ch_Answer2 = "为了钱杀了汤姆，米奇怒不可遏杀了威廉……"

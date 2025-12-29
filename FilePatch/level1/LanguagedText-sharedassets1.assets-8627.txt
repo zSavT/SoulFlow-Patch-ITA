@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1300
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Frank kardeşimi hiç sevmiyordu. Üstelik beni de sevmiyor. Üstelik Bruce'la da yakınım. Eğer öyleyse…"
+ 1 string eng_Text = "Frank didn't like my brother at all. Additionally, he doesn't like me either. Also, I'm pretty close to Bruce too. If so…"
+ 1 string fr_Text = "Frank n'ai pas aime mon frère du tout. De plus, il ne m'aime pas aussi. En outre, je suis assez près de Bruce aussi. Eh bien..."
+ 1 string ch_Text = "弗兰克很讨厌我的弟弟，而且他也不喜欢我，我和布鲁斯关系也很好。如果这么说的话……"
+ 1 string tr_Answer1 = "Ne oldu Rose?"
+ 1 string eng_Answer1 = "What's up Rose?"
+ 1 string fr_Answer1 = "Qu'est-ce qui se passe Rose ?"
+ 1 string ch_Answer1 = "怎么了，萝丝？"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

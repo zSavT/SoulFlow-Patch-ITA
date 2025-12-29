@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1359
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Aslında geçmişinde bir şeyler var ama… "
+ 1 string eng_Text = " Actually, there are some things in his past but…"
+ 1 string fr_Text = "En fait, il y a certaines choses dans son passé mais... "
+ 1 string ch_Text = "实际上，他过去也有些事，但是……"
+ 1 string tr_Answer1 = "Ben tam olarak ne oldu bilmiyorum Kevin. Sakıncası yoksa anlatabilir misin? "
+ 1 string eng_Answer1 = "I don't know about what happened to Kevin either. Do you mind telling me about it? "
+ 1 string fr_Answer1 = "Je ne sais pas non plus ce qui est arrivé à Kevin. tu peux m'en parler ?"
+ 1 string ch_Answer1 = "我也不知道凯文身上发生了什么，你介意告诉我吗？"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1338
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Sorun yok Kevin, senin onun adına özür dilemene de gerek yok. Eski dostunun katil olabileceğini düşünen herkes hata yapabilir."
+ 1 string eng_Text = "No problem Kevin, you don't have to apologize on his behalf. Everyone who thinks that their old friend is a murderer can make mistakes."
+ 1 string fr_Text = "Pas de problème Kevin, tu ne dois pas d'apologizer en son nom. Tout le monde qui pense que leur vieil ami est un meurtrier peut faire erreur."
+ 1 string ch_Text = "没事，凯文，你不必替他道歉。每个觉得凶手是自己老朋友的人都会犯错。"
+ 1 string tr_Answer1 = "Ne demek istiyorsun Kai? (Niye hep böyle belirsiz konuşur ki bu çocuk!)"
+ 1 string eng_Answer1 = "What do you mean Kai? (Why does this kid always talk so vaguely?!)"
+ 1 string fr_Answer1 = "Ça veut dire quoi.. Kai? (Pourquoi parle cet enfant toujours si vaguement ?!)"
+ 1 string ch_Answer1 = "你什么意思，凯？（为什么这个孩子说话总是这么谜语人？！）"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

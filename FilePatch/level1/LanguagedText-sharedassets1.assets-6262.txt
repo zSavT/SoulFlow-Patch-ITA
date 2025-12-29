@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1320
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Eşyalar bitti mi David? "
+ 1 string eng_Text = "Are we done with the furniture?"
+ 1 string fr_Text = "On a fini avec les immeubles ?"
+ 1 string ch_Text = "家具搬完了吗？"
+ 1 string tr_Answer1 = "Kes sesini Kevin."
+ 1 string eng_Answer1 = "Shut up, Kevin."
+ 1 string fr_Answer1 = "Tais-toi, Kevin."
+ 1 string ch_Answer1 = "闭嘴吧，凯文。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

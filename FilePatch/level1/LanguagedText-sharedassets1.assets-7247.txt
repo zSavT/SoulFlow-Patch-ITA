@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1387
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Sana bir daha ailem hakkında konuşma demiştim! Bildiğin hiçbir şey yok!"
+ 1 string eng_Text = "I told you not to speak of my family again! You know nothing!"
+ 1 string fr_Text = "Je t'ai dit de ne plus parler de ma famille ! tu ne sais rien !"
+ 1 string ch_Text = "我跟你说了别再提起我的家人！你什么也不知道！"
+ 1 string tr_Answer1 = "Annen… Annen öldü evet. Ama kaza falan geçirmedi. Bruce öldürdü."
+ 1 string eng_Answer1 = "Your mother… Your mother died, yes. But didn't have an accident or anything. Bruce killed her."
+ 1 string fr_Answer1 = "Ta mère… Ta mère est morte, oui. Mais il n y’a pas eu d'accident ou quoi que ce soit. Bruce l'a tuée."
+ 1 string ch_Answer1 = "你的母亲…… 你的母亲确实是死了，但是她不是因为那种事故死的，是布鲁斯杀了她。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1081
+ 1 UInt8 m_Enabled = 0
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "-Ruhlar, içinde bulundukları bedenin ölümüyle özgürlüklerine kavusurlar. Gün bitene kadar kurbanı bul.   \\n \\n -Bedeni ölmeyen ruh için zaman döngüye girer. Gün bastan baslar.  \\n \\n -Ruhlar, selam vererek beden degistirebilirler.  \\n \\n -Ve hayvanlar... Onların da ruhları var elbet."
+ 1 string eng_Text = "-Le anime riacquistano la libertà con la morte del corpo in cui si trovano. Trova la vittima entro la fine della giornata.  \\n \\n -Per l'anima il cui corpo non muore, il tempo entra in un ciclo. Il giorno ricomincia.  \\n \\n -Gli spiriti possono cambiare corpo salutando.   \\n \\n -E gli animali... Certo, anche loro hanno un'anima. "
+ 1 string fr_Text = ""
+ 1 string ch_Text = ""
+ 1 string tr_Answer1 = ""
+ 1 string eng_Answer1 = ""
+ 1 string fr_Answer1 = ""
+ 1 string ch_Answer1 = ""
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

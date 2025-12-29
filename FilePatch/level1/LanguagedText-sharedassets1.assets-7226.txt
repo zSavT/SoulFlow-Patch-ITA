@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1287
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "David... taşınıyor.  "
+ 1 string eng_Text = "David... is going."
+ 1 string fr_Text = "David... s'en va."
+ 1 string ch_Text = "大卫……要走了。"
+ 1 string tr_Answer1 = "İyi olmuş. Mikey gibi iyi bir çocuktan şüphelenen birisi umrumda olamaz. "
+ 1 string eng_Answer1 = "Well. I don't care if someone suspects a good boy like Mikey. "
+ 1 string fr_Answer1 = "Bien. Je me fiche que quelqu'un soupçonne un bon garçon comme Mikey. "
+ 1 string ch_Answer1 = "好吧。我不在乎是否有人怀疑像米奇这样的好男孩。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

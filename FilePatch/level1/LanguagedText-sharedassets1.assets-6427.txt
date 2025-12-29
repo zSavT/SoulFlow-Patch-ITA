@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1274
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Hiçbir şey."
+ 1 string eng_Text = "Nothing."
+ 1 string fr_Text = "Rien."
+ 1 string ch_Text = "没什么。"
+ 1 string tr_Answer1 = "Herkes seni arıyordu. Saklanmanın bir sebebi mi var?"
+ 1 string eng_Answer1 = "Everyone was looking for you. Got a reason for your hiding?"
+ 1 string fr_Answer1 = "Tout le monde te cherchait. Tu as une raison pour te cacher ?"
+ 1 string ch_Answer1 = "大家都在找你，你为什么躲起来啊？"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1321
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Ben birazdan çıkıyorum."
+ 1 string eng_Text = "I'm leaving soon. "
+ 1 string fr_Text = "Je pars bientôt. "
+ 1 string ch_Text = ""
+ 1 string tr_Answer1 = "Kendine dikkat et."
+ 1 string eng_Answer1 = "Take care of yourself. "
+ 1 string fr_Answer1 = "Prends soin de toi. "
+ 1 string ch_Answer1 = ""
+ 1 string tr_Answer2 = "Nereye gidiyorsun?"
+ 1 string eng_Answer2 = "Where are you going? "
+ 1 string fr_Answer2 = "Où allez-vous? "
+ 1 string ch_Answer2 = ""

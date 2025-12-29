@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1418
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Abartmaya ne gerek var Kai!? Taşınmadan önce aramızı bozmak istemem. En iyisi bu konuşmayı burada bitirelim. "
+ 1 string eng_Text = "There is no need to exaggerate Kai! I don't want to make things worse between us before I move out. Let's just finish this conversation here. "
+ 1 string fr_Text = "Il n'y a pas besoin d'exagérer Kai ! Je ne veux pas que les choses empirent entre nous avant de déménager. Finissons cette conversation ici."
+ 1 string ch_Text = "没必要说得这么夸张，凯！在我搬出去之前，我不想让咱们俩的关系更糟。我们就聊到这吧。"
+ 1 string tr_Answer1 = "..."
+ 1 string eng_Answer1 = "..."
+ 1 string fr_Answer1 = "..."
+ 1 string ch_Answer1 = "..."
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

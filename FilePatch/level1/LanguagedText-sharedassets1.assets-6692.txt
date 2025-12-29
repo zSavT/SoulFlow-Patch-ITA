@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1344
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Pavlov! Annemin adını o pis ağzına alarak kirletme. Benden de uzak dur."
+ 1 string eng_Text = "Pavlov! Don't stain my mother's name by uttering it with your filthy mouth. And stay away from me."
+ 1 string fr_Text = "Pavlov! Ne parle pas de ma mère avec ta bouche sale. Et reste loin de moi."
+ 1 string ch_Text = "巴甫洛夫！不要用你那肮脏的嘴玷污我母亲的名字。离我远点。"
+ 1 string tr_Answer1 = "Bruce’u tanıyorum. Beni içeri o attırdı. Yarın yine içeri alacaklar kesin. Sana yapabileceklerini ancak hayal edebiliyorum. Her ne yaptıysan itiraf edip kurtulabilirsin."
+ 1 string eng_Answer1 = "I know Bruce. He got me locked up. They will once again take me in tomorrow for sure. I can only imagine what they will do to you. Whatever you did, you can admit it and be safe."
+ 1 string fr_Answer1 = "Je connais Bruce. Il m'a enfermé. Ils m'emmèneront à nouveau demain, c'est sûr. Je ne peux qu'imaginer ce qu'ils vont te faire. Quoi que tu as fait, tu peux l'admettre et être en sécurité."
+ 1 string ch_Answer1 = "我了解布鲁斯，他把我关起来了。他们明天肯定还会把我抓起来。我只能想象他们会对你做什么。不管你做过什么，你承认了才安全。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

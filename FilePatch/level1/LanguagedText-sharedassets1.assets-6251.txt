@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1268
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Şimdilik. Sen nereden duydun velet?"
+ 1 string eng_Text = "For the time being. Where did you hear that from, brat?"
+ 1 string fr_Text = "Pour le moment. D'où as-tu entendu ça, morveux ?"
+ 1 string ch_Text = "暂时被放出来了。你从哪听说的，混蛋？"
+ 1 string tr_Answer1 = "Frank söyledi."
+ 1 string eng_Answer1 = "Frank told me."
+ 1 string fr_Answer1 = "Frank me dit."
+ 1 string ch_Answer1 = "弗兰克告诉我的。"
+ 1 string tr_Answer2 = "Herkes bunu konuşuyor."
+ 1 string eng_Answer2 = "E-Everyone's talking about that."
+ 1 string fr_Answer2 = "E-Tout le monde en parle."
+ 1 string ch_Answer2 = "每……每个人都在说这件事。"

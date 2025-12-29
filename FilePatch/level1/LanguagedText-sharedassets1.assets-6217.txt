@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1334
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Frank iş için erkenden çıkıyor, David taşınıyor, Mikey bir yere yürüyordu…"
+ 1 string eng_Text = "Frank leaves home early to go work, David is moving out and Mikey was walking to somewhere…"
+ 1 string fr_Text = "Frank sort de la maison tôt pour aller au travail, David déménage et Mikey marchait au quelque part..."
+ 1 string ch_Text = "弗兰克早早离开家去上班了，大卫要搬出这片了，米奇去了某个地方……"
+ 1 string tr_Answer1 = "Mikey mi? Bruce'u görmedin ama Mikey'i gördün demek. Garip…"
+ 1 string eng_Answer1 = "Mikey? You didn't see Bruce but you saw Mikey? Strange…"
+ 1 string fr_Answer1 = "Mikey? Tu n'as pas vu Bruce mais tu as vu Mikey ? C'est bizarre..."
+ 1 string ch_Answer1 = "米奇？你没看见布鲁斯却看见了米奇？奇怪……"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

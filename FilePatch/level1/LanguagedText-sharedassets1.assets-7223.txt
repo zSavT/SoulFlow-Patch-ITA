@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1362
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Hediyeleri pek sevdiğini sanmıyorum ama güzel yemekleri sever. Belki yemek ısmarlarsın gitmeden."
+ 1 string eng_Text = "I don't think he likes gifts that much but he likes good food. Maybe you can treat him to a dinner before you leave."
+ 1 string fr_Text = "Je ne pense pas qu'il aime les cadeaux mais il aime les bonnes nourritures. Peut-être tu peux le traiter à un dîner avant tu partiras."
+ 1 string ch_Text = "我觉得他不是很喜欢礼物，但是他喜欢好吃的。也许你可以在离开前请他吃顿好的。"
+ 1 string tr_Answer1 = "Anladım teşekkürler. Kilosundan dolayı yemeklerle arasının iyi olacağını tahmin edemezdim."
+ 1 string eng_Answer1 = "I see, thanks. I didn't think he'd be okay with the food because of his weight."
+ 1 string fr_Answer1 = "Je vois, merci. Je n'ai pensé pas que il soit d'accord avec la nourriture à cause de son poids."
+ 1 string ch_Answer1 = "我知道了，谢谢。我之前觉得鉴于他的体重，他不会想要食物的。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

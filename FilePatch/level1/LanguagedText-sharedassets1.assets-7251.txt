@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1313
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Çok da takma kafana Rose. Nakliyeci birazdan geleceğini söyledi. Ben onu karşılamaya çıkayım izninle."
+ 1 string eng_Text = "Don't think too much about it Rose. The delivery guy said he'd be here anytime now. I'll be going to answer to door."
+ 1 string fr_Text = "Ne pense pas trop sur ça Rose. Le livreur a dit qu'il serait là à tout moment maintenant. J'irai d'ouvrir la porte."
+ 1 string ch_Text = "不要多想，萝丝。快递员说他随时会来，我一会得去开门了。"
+ 1 string tr_Answer1 = "Tabii tabii, görüşmek üzere."
+ 1 string eng_Answer1 = "Of course, see you later."
+ 1 string fr_Answer1 = "Bien sûr, au revoir."
+ 1 string ch_Answer1 = "没问题，再见。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

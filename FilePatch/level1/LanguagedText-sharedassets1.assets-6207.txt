@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1401
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Sana bunları David mi yaptı o zaman?"
+ 1 string eng_Text = "So, did David do this to you?"
+ 1 string fr_Text = "Alors, C’est David qui t’a fait ça ?"
+ 1 string ch_Text = "那是大卫伤的你吗？"
+ 1 string tr_Answer1 = "H-hayır."
+ 1 string eng_Answer1 = "N-No."
+ 1 string fr_Answer1 = "N-Non."
+ 1 string ch_Answer1 = "不，不是。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

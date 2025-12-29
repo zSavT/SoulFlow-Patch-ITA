@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1279
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Sorun yok. Bu arada Mikey... Sanırım Bruce’u evinde duyduğum ses ona aitti."
+ 1 string eng_Text = "It’s alright. By the way, Mikey… I think the voice I heard at Bruce's house was him."
+ 1 string fr_Text = "C'est bon. Au fait, Mikey... Je crois que la voix que j'ai entendu chez Bruce, c'était lui."
+ 1 string ch_Text = "好吧。顺便一提，米奇……我觉得我听到的布鲁斯家的声音是他的。"
+ 1 string tr_Answer1 = "Ne konuştular duyabildin mi? (Aralarında ne oldu acaba?.. ) "
+ 1 string eng_Answer1 = "Were you able to hear what they were talking about? (I wonder what happened between them.)"
+ 1 string fr_Answer1 = "As-tu pu entendre ce dont ils parlaient ? (Je me demande ce qui s'est passé entre eux.)"
+ 1 string ch_Answer1 = "你听清他们在说什么了吗？（我想知道他们之间发生了什么。）"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

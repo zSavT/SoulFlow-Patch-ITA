@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1403
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Bu bir şantaj mı?! "
+ 1 string eng_Text = "Is this blackmail?!"
+ 1 string fr_Text = "C'est du chantage ?!"
+ 1 string ch_Text = "你这是威胁我吗？！"
+ 1 string tr_Answer1 = "Hayır tabii ki."
+ 1 string eng_Answer1 = "No, no it isn't."
+ 1 string fr_Answer1 = "Non, non ça ne l'est pas."
+ 1 string ch_Answer1 = "不，这不是。"
+ 1 string tr_Answer2 = "Bilmem, olabilir. . "
+ 1 string eng_Answer2 = "I don't know, maybe…"
+ 1 string fr_Answer2 = "Je ne sais pas, peut-être..."
+ 1 string ch_Answer2 = "我不知道，也许是……"

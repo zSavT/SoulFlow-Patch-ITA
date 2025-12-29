@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1305
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Şöyle bir düşününce, insan korkuyor. Ya sonraki kurban bensem?!. "
+ 1 string eng_Text = "It gives me the chills when I think about that. What if I am the next victim?!"
+ 1 string fr_Text = "Ça me donne des frissons quand j'y pense. Et si je suis la victime suivante ?!"
+ 1 string ch_Text = "一想到这个就让我很害怕，万一我就是下一个受害者呢？！"
+ 1 string tr_Answer1 = "Rose, sakin ol öncelikle. Frank’ten emin değiliz bu birincisi. İkincisi polisler hala mahalledeyken kimseye bir şey olacağını sanmıyorum."
+ 1 string eng_Answer1 = "Rose, calm down first. We are not sure about Frank, that's first. Secondly, I don't think anything will happen to anyone when cops are in the neighborhood."
+ 1 string fr_Answer1 = "Rose, calme au début. Nous ne sommes pas certain sur Frank, c'est le première. Deuxièmement, je ne pense pas rien se passera à personne quand les polices sont dans le quartier."
+ 1 string ch_Answer1 = "萝丝，你先冷静一下。我们还不确定就是弗兰克，这是其一。第二，我觉得警察在这片街区的时候，不会有人出事的。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

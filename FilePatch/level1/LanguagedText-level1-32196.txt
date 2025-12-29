@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1915
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Ruhlar, girdikleri bedenin içerisinde sıkışıp kalırlar"
+ 1 string eng_Text = "Gli spiriti sono intrappolati nel corpo in cui sono entrati"
+ 1 string fr_Text = "Les esprits sont piégés à l'intérieur du corps dans lequel ils sont entrés"
+ 1 string ch_Text = "灵魂被困在他们进入的体内"
+ 1 string tr_Answer1 = ""
+ 1 string eng_Answer1 = ""
+ 1 string fr_Answer1 = ""
+ 1 string ch_Answer1 = ""
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

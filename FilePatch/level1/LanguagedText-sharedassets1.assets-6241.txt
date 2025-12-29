@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1410
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Bruce’u gördün mü?"
+ 1 string eng_Text = "Have you seen Bruce?"
+ 1 string fr_Text = "As-tu vu Bruce ?"
+ 1 string ch_Text = "你看见布鲁斯了吗？"
+ 1 string tr_Answer1 = "Hayır, bugün hiç görmedim."
+ 1 string eng_Answer1 = "Nope, I haven't seen him today."
+ 1 string fr_Answer1 = "Non, je ne l'ai pas vu aujourd'hui."
+ 1 string ch_Answer1 = "没有，我今天还没见过他。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

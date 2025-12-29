@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1353
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Frank’in ilk suçlayabileceği kişi sensin bana sorarsan. Burada kalsaydım seni savunacağımı biliyorsun. "
+ 1 string eng_Text = "If you ask me, you are the first person that Frank will blame. You know I would be defending you if I were staying here. "
+ 1 string fr_Text = "Si tu me demandes, tu es la première personne que Frank va blâmer. Tu sais que je te défendrais si je restais ici."
+ 1 string ch_Text = "如果你问我，我想你是弗兰克会指责的首要人选。你知道，如果我留在这，会帮你说话的。"
+ 1 string tr_Answer1 = "David, Pavlov’a beni savunmaktan Pavlov’a dönüştün. Şantajcı, yalancı ve açgözlü. "
+ 1 string eng_Answer1 = "David, you remind me of Pavlov while defending me from Pavlov.  Blackmailer, liar and greedy."
+ 1 string fr_Answer1 = "David, tu me rappelles Pavlov quand tu me défendant de Pavlov. Maître chanteur, menteur et cupide."
+ 1 string ch_Answer1 = "大卫，你让我想起了保护我不受巴甫洛夫伤害的那个大卫，一个满口胡言、贪婪无度的勒索犯。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

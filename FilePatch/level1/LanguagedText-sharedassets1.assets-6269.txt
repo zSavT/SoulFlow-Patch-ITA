@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1346
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Sakin ol. Yalnızca köpek ısırdı, birazdan giderim hastaneye zaten abartmaya gerek yok. "
+ 1 string eng_Text = "Just chill. It's just a dog bite, I'll get to a hospital soon, no need to over react."
+ 1 string fr_Text = "Détends-toi. C'est juste une morsure de chien, j'irai bientôt à l'hôpital, pas besoin de s’agité."
+ 1 string ch_Text = "冷静。狗咬的，我一会就去医院，没必要大惊小怪的。"
+ 1 string tr_Answer1 = "Yalan söylüyorsun!"
+ 1 string eng_Answer1 = "You're lying!"
+ 1 string fr_Answer1 = "Tu mens !"
+ 1 string ch_Answer1 = "你在撒谎！"
+ 1 string tr_Answer2 = "Çabucak hastaneye gitmelisin."
+ 1 string eng_Answer2 = "You have to get to a hospital as soon as possible."
+ 1 string fr_Answer2 = "Tu dois te rendre à l'hôpital dès que possible."
+ 1 string ch_Answer2 = "你必须尽早去医院。"

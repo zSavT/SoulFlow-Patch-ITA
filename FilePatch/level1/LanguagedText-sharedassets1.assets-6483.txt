@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1389
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "N-ne?!"
+ 1 string eng_Text = "W-what?!"
+ 1 string fr_Text = "Q-Quoi ?!"
+ 1 string ch_Text = "什……什么？！"
+ 1 string tr_Answer1 = "Seni kullandığını biliyorum. Annen üzerinden şantaj yapmış olmalı. Ben içeri girmeden ölecek. Merak etme."
+ 1 string eng_Answer1 = "I know he's been using you. He must've blackmailed you through your mother. He will die before I am jailed. Do not worry."
+ 1 string fr_Answer1 = "Je sais qu'il t'a utilisé. Il a dû  te faire du chantage par l'intermédiaire de ta mère. Il mourra avant que je sois emprisonné. Ne t'inquiète pas."
+ 1 string ch_Answer1 = "我知道他在利用你，他肯定是利用你母亲威胁你了。我进监狱之前就会杀了他，不必担心。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

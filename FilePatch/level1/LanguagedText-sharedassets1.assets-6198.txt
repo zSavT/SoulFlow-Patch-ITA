@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1420
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Bu bir şeyi değiştirmez. Ama… Pavlov, seni bu kadar anlayışlı görmek beni oldukça şaşırttı. İnsan yarım günde değişir mi?"
+ 1 string eng_Text = "Questo non cambia nulla. Ma... Pavlov, vederti così comprensivo mi ha sorpreso. Un uomo può cambiare in appena mezza giornata?"
+ 1 string fr_Text = "Ça ne change rien. Mais… Pavlov, te voir si compréhensif m'a surpris.  Un homme peut-il changer en une demi-journée?"
+ 1 string ch_Text = "那不会改变任何事。但是……巴甫洛夫，你这么善解人意是我想不到的，一个人在半天之内会改变这么大吗？"
+ 1 string tr_Answer1 = "Ben yarım günde değişmedim. Değişmem yıllar aldı, eski halime dönüşmem ise yarım gün. Rusya’daki günlerime… Her neyse. Beni anladın. Ben gidiyorum."
+ 1 string eng_Answer1 = "Non sono cambiato in mezza giornata. Cambiare ha richiesto mesi, ma mezza giornata per tornare a chi ero. Ai miei giorni in Russia... Comunque. Mi hai capito. Me ne vado."
+ 1 string fr_Answer1 = "Je n'ai pas changé en une demi-journée. Changer a pris des mois, mais une demi-journée pour revenir à qui j'étais auparavant. À mes jours en Russie… Quoi qu'il en soit. Tu m'as eu. Je vais partir."
+ 1 string ch_Answer1 = "我不是半天之内改变的。用了几个月时间改变，但只花了半天我就变回了原来的样子，变回我在俄罗斯时的样子……反正你懂我的意思，我这就走。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

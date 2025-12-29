@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 775
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Mahallede birçok kişi ile nötr bir ilişkiye sahip. Pavlov ve Frank ona zorbalık yapsa bile genellikle alttan alır. Ailesi hakkında kimse bir şey bilmiyor. Dairesinde yalnız yaşıyor. Orta halli bir hayata sahip. Şüpheci ve dürüst. Sürekli yanında taşıdığı, ailesinden kalma oldukça eski bir kolyesi var. Ruhsatsız bıçak taşımaktan sabıkası var. Rose’u seviyor. Rose’un erkek kardeşi William öldükten sonra, iş hayatına bir süre ara verdi."
+ 1 string eng_Text = "Has a neutral relationship with many people in the neighborhood. Even though Pavlov and Frank bullies him, he humours them. Nobody knows anything about his family, he lives alone in his flat. Middle class. Skeptical and honest. Has a rusty pendant that he always carries around: A memory from his family. Has a record for carrying a knife without a license. Loves Rose. After William's (Rose's brother) death he took a break from work life."
+ 1 string fr_Text = "A une relation neutre avec de nombreuses personnes du quartier. Même si Pavlov et Frank l'intimident, il se moque d'eux. Personne ne sait rien à propos de sa famille, il vit seul dans son appartement. Classe moyenne. Sceptique et honnête. A un pendentif rouillé qu'il porte toujours avec lui : un souvenir de sa famille. A un registre pour avoir porté un couteau sans permis. Aime Rose. Après la mort de William (le frère de Rose), il a pris une pause dans sa vie professionnelle."
+ 1 string ch_Text = "与附近的许多人保持中立的关系。尽管巴甫洛夫和弗兰克欺负他，他还是迁就他们。没人了解他家的情况，他独居。中产阶级。疑心重，人很诚实。总是随身携带一个生锈的吊坠：家人留给他的回忆。有无照携带刀具的案底。喜欢萝丝。在威廉（萝丝的弟弟）死后，曾请假在家待了几天。"
+ 1 string tr_Answer1 = ""
+ 1 string eng_Answer1 = ""
+ 1 string fr_Answer1 = ""
+ 1 string ch_Answer1 = ""
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

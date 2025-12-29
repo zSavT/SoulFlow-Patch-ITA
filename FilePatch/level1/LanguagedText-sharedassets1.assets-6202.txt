@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1265
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Saklanmıyordum."
+ 1 string eng_Text = "I wasn't hiding."
+ 1 string fr_Text = "Je ne me cachais pas."
+ 1 string ch_Text = "我没在躲。"
+ 1 string tr_Answer1 = "Kolundaki kan?!"
+ 1 string eng_Answer1 = "The blood on your arm?!"
+ 1 string fr_Answer1 = "Le sang sur ton bras ?!"
+ 1 string ch_Answer1 = "你胳膊上怎么有血？！"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

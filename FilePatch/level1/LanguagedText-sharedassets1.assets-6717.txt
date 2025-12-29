@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1311
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Sence ölecek bir insan gibi mi duruyorum? Ayrıca ölecek olsam kaybedecek bir şeyim kalmazdı, seni de öldürürdüm. Nefret ettiğim onca insanı da…"
+ 1 string eng_Text = "Do I look like a person that could die? Besides if I were a dying man, I would have nothing to lose, I'd take you out too. And all those I hate…"
+ 1 string fr_Text = "Est-ce que je ressemble à une personne qui pourrait mourir ? En plus, si j'étais un homme mourant, je n'aurais rien à perdre, je t’emmènerais. Et aussi tous ceux que je déteste…"
+ 1 string ch_Text = "你看起来是个将死之人吗？而且，如果我要死了，我没什么可失去的，我还会拉你做垫背的，还有所有我讨厌的……"
+ 1 string tr_Answer1 = "Hayır, sen böyle birisi değilsin."
+ 1 string eng_Answer1 = "No, you're not like that."
+ 1 string fr_Answer1 = "Non, tu n'es pas comme ça.	"
+ 1 string ch_Answer1 = "不，你不是这种人。"
+ 1 string tr_Answer2 = "Beni de öldür öyleyse, bekliyorum."
+ 1 string eng_Answer2 = "Kill me too then, I'm waiting."
+ 1 string fr_Answer2 = "Tue-moi aussi alors, j'attends."
+ 1 string ch_Answer2 = "那就杀了我吧，我等着呢。"

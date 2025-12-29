@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1360
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Bir gün anlayacaksın...	"
+ 1 string eng_Text = "You will understand one day."
+ 1 string fr_Text = "Tu comprendras un jour."
+ 1 string ch_Text = "总有一天你会明白的。"
+ 1 string tr_Answer1 = "Saçmalamayı kes David. Ben gidiyorum."
+ 1 string eng_Answer1 = "Stop talking nonsense, David. I'm going."
+ 1 string fr_Answer1 = "Arrête de dire n’importe quoi, David. Je m’en vais."
+ 1 string ch_Answer1 = "别说胡话了，大卫。我走了。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

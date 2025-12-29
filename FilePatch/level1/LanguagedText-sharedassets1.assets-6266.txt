@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1369
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Bir şeyim yok, köpek ısırdı. Birazdan hastaneye giderim."
+ 1 string eng_Text = "Nothing important, a dog bite. I'll get to a hospital soon."
+ 1 string fr_Text = "Rien d'important, une morsure de chien. J'irai bientôt à l'hôpital."
+ 1 string ch_Text = "没什么大不了的，狗咬的，我一会就去医院。"
+ 1 string tr_Answer1 = "Mikey, cinayetler hakkında… Çok açık ki sen en büyük şüphelisin. Bunu daha fazla saklamaya çalışma lütfen. Kolun da… Son kurbanın çetin çıkmış olmalı. "
+ 1 string eng_Answer1 = "Mikey, about the murders… It's clear that you're the biggest suspect. Don't try to hide it anymore. And your arm… Looks like your last victim was a tough one."
+ 1 string fr_Answer1 = "Mikey, à propos des meurtres… Il est clair que tu es le plus grand suspect. N'essayez plus de le cacher. Et ton bras… On dirait que ta dernière victime était coriace. "
+ 1 string ch_Answer1 = "米奇，说到那些杀人案……显然你是嫌疑最大的人。不要再试图隐瞒了。而且你的胳膊……看起来你的最后一个受害者很不好对付。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

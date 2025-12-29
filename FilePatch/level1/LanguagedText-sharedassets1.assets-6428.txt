@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1333
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Nereye gidiyordun?"
+ 1 string eng_Text = "Where are you headed?"
+ 1 string fr_Text = "Où vas-tu ?"
+ 1 string ch_Text = "你要去哪里？"
+ 1 string tr_Answer1 = "Biraz hava alıyordum sadece."
+ 1 string eng_Answer1 = "I was just getting some fresh air."
+ 1 string fr_Answer1 = "Je prenais l'air."
+ 1 string ch_Answer1 = "我就是呼吸点新鲜空气。"
+ 1 string tr_Answer2 = "William'ın mezarına. "
+ 1 string eng_Answer2 = "To William's grave."
+ 1 string fr_Answer2 = "À la tombe de William."
+ 1 string ch_Answer2 = "我要去威廉的墓地。"

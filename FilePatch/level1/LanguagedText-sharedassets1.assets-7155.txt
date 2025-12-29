@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1306
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Demek öyle ha?"
+ 1 string eng_Text = "Is that so?."
+ 1 string fr_Text = "C'est ça ?"
+ 1 string ch_Text = "是吗？"
+ 1 string tr_Answer1 = "Peki sen… Sen aklandıysan, kim Tom ve William’ı öldürdü?"
+ 1 string eng_Answer1 = "If you… You're innocent, who killed Tom and William?"
+ 1 string fr_Answer1 = "Si tu… Tu es innocent, qui a tué Tom et William ?"
+ 1 string ch_Answer1 = "如果你……你是无辜的，那是谁杀了汤姆和威廉？"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1347
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Bugün erkencisin?"
+ 1 string eng_Text = "You're early today?"
+ 1 string fr_Text = "Vous êtes en avance aujourd'hui ?"
+ 1 string ch_Text = "你今天早吗？"
+ 1 string tr_Answer1 = "Hahah, komiksin Sanuro. "
+ 1 string eng_Answer1 = "Hahah, you're funny Sanuro."
+ 1 string fr_Answer1 = "Hahah, tu es drôle Sanuro."
+ 1 string ch_Answer1 = "哈哈哈，你真有趣三郎。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

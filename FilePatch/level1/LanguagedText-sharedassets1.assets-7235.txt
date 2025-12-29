@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1291
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "İster inan ister inanma. Eminim sen de Bruce hakkında kötü şeyler biliyorsundur. Kesinlikle!"
+ 1 string eng_Text = "Believe it or not. I am sure you too know nasty things about Bruce. Certainly!"
+ 1 string fr_Text = "Croyez-le ou non. Je suis sûr que toi aussi tu sais des choses désagréables sur Bruce. Certainement!"
+ 1 string ch_Text = "爱信不信。我知道你肯定也了解一些布鲁斯的脏事，确定一定以及肯定！"
+ 1 string tr_Answer1 = "Evet..."
+ 1 string eng_Answer1 = "Yes… "
+ 1 string fr_Answer1 = "Oui…"
+ 1 string ch_Answer1 = "是……"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

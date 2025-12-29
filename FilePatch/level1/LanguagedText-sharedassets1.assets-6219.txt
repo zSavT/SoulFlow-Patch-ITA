@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1335
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Onu bugün bulman çok zor. Frank biliyordur belki, ona sor. İşten sonra kafede olur. Tabii seni alırlarsa…"
+ 1 string eng_Text = "It is really hard to find him today. Maybe Frank knows, try asking him. He will be at the cafe after work. Of course, if they take you in…"
+ 1 string fr_Text = "C'est vraiment difficile de le trouver aujourd'hui. Peut-être que Frank le sait, essaie de lui demander. Il sera au café après le travail. Bien sûr, s'ils t’accueillent..."
+ 1 string ch_Text = "今天很难找到他。也许弗兰克知道他在哪，你去问问他吧。弗兰克下班后会去咖啡馆。当然，如果他们让你进去的话……"
+ 1 string tr_Answer1 = "Alırlarsa derken neyi kast ediyorsun?"
+ 1 string eng_Answer1 = "What do you mean if they take you in?"
+ 1 string fr_Answer1 = "Qu'est-ce que tu veux dire par "s'ils t’accueillent" ?"
+ 1 string ch_Answer1 = "你什么意思，什么他们让我进去？"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

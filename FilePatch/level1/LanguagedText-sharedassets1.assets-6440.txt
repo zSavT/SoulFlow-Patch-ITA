@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1331
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "T-tamam, Bruce… O hayatımda gördüğüm en büyük alçak. Frank… Bruce’tan bir şeyler saklıyor. Ölecek."
+ 1 string eng_Text = "O-Okay, Bruce… È il più grande bastardo che abbia mai visto in vita mia. Frank… nasconde qualcosa a Bruce. Morirà."
+ 1 string fr_Text = "O-D'accord, Bruce… C'est le plus gros connard que je n'ai jamais vu. Frank… cache quelque chose à Bruce. Il va mourir."
+ 1 string ch_Text = "好……好吧，布鲁斯……他是我这辈子见过的最混的混蛋。弗兰克……他对布鲁斯隐瞒了什么，他会死的。"
+ 1 string tr_Answer1 = "Katil Bruce mu?!"
+ 1 string eng_Answer1 = "Bruce è l'assassino?"
+ 1 string fr_Answer1 = "Bruce est le meurtrier ?"
+ 1 string ch_Answer1 = "布鲁斯是凶手？"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

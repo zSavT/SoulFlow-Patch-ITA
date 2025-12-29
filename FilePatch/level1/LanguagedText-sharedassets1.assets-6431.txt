@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1394
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Selam Kai. Ne oldu? Bir şey mi var?"
+ 1 string eng_Text = "Hi Kai. What happened? Something wrong?"
+ 1 string fr_Text = "Salut Kai. Qu'est-il arrivé ? Quelque chose ne va pas ?"
+ 1 string ch_Text = "嗨，凯。发生了什么？怎么回事？"
+ 1 string tr_Answer1 = "Ş-şey Clara... Clara, abisi ile ilgili bir şey söyledi mi? "
+ 1 string eng_Answer1 = "W-well, have Clara… Did Clara say anything about her brother?"
+ 1 string fr_Answer1 = "Eh bien, est-ce que Clara... Est-ce que Clara a dit quelque chose à propos de son frère ?"
+ 1 string ch_Answer1 = "呃，克拉拉她……克拉拉说了任何关于她哥哥的事吗？"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1282
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Ne demek istiyorsun?"
+ 1 string eng_Text = "What do you mean?"
+ 1 string fr_Text = "Qu'est-ce que tu veux dire ?"
+ 1 string ch_Text = "你什么意思？"
+ 1 string tr_Answer1 = "Beni arıyor. Ama bulamayacak. O kadar zamanı yok."
+ 1 string eng_Answer1 = "He's looking for me. But he can't find me. He doesn't have that much time."
+ 1 string fr_Answer1 = "Il me cherche. Mais il ne peut pas me trouver. Il n'a pas beaucoup de temps."
+ 1 string ch_Answer1 = "他在找我，但是他找不到我，他没那么多时间。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

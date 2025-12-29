@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1264
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Yürüyordum yalnızca."
+ 1 string eng_Text = "I was just walking."
+ 1 string fr_Text = "J’était juste en train de marcher."
+ 1 string ch_Text = "我就是散了个步。"
+ 1 string tr_Answer1 = "K-kolunda yara var!"
+ 1 string eng_Answer1 = "Y-You've got a wound on your arm!"
+ 1 string fr_Answer1 = "Y-Tu as une blessure au bras !"
+ 1 string ch_Answer1 = "你……你胳膊受伤了！"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

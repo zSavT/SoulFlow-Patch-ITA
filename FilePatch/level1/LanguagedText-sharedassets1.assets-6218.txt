@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1341
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Dinliyorum."
+ 1 string eng_Text = "I'm listening."
+ 1 string fr_Text = "J'écoute."
+ 1 string ch_Text = "我听着呢。"
+ 1 string tr_Answer1 = "Mikey’i bu sabah gördün mü?"
+ 1 string eng_Answer1 = "Have you seen Mikey this morning?"
+ 1 string fr_Answer1 = "As-tu vu Mikey ce matin ?"
+ 1 string ch_Answer1 = "今早你看见米奇了吗？"
+ 1 string tr_Answer2 = "Kevin neleri sever? Aramızı düzeltmek için ona hediye alacağım da gitmeden."
+ 1 string eng_Answer2 = "What does Kevin like? I wanted to gift him something to make things right between us before I leave."
+ 1 string fr_Answer2 = "Qu'est-ce que Kevin aime ? J'ai voulu de lui donner un cadeau pour faire les relations entre lui et moi avant de partir."
+ 1 string ch_Answer2 = "凯文喜欢什么？我想在离开前送他点什么来修复我们的关系。"

@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1336
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Hayır görmedim. Ama dün gece Bruce’un evinden sesler geliyordu. Ben o sıra marketten dönüyordum. Normalde dinlemem böyle şeyleri ama fazla ses gelince insan merak ediyor."
+ 1 string eng_Text = "No, I didn't see it. But last night, there were sounds coming from Bruce's house. I was coming back from the grocery store at that time. I don't usually listen to what comes out of people’s houses but I got curious when I heard too many voices."
+ 1 string fr_Text = "Non, je ne l'ai pas vu. Mais la nuit dernière, il y avait des bruits venant de la maison de Bruce. Je revenais de l'épicerie à ce moment-là. Je n'ai pas l'habitude d'écouter ce qui sort des maisons des gens, mais tous ces bruits ont attiré mon attention."
+ 1 string ch_Text = "不，我没看见。但是昨晚布鲁斯家有奇怪的声音传出来。我当时刚刚从杂货店回来。平时我不会可以去听别人家的动静，但是我听见他家很吵，就好奇了起来。"
+ 1 string tr_Answer1 = "Eee, n’aptın yani dinledin mi? Dinlediysen ne duydun?"
+ 1 string eng_Answer1 = "So, what did you do, did you listen? If you did, what did you hear?"
+ 1 string fr_Answer1 = "Alors, qu'est-ce que tu as fait, tu as écouté ? Si tu l’as fait, qu'as-tu entendu ?"
+ 1 string ch_Answer1 = "那你做了什么，你听清了吗？如果你听清了，你听见什么了？"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

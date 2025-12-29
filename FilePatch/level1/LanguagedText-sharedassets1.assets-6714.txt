@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1384
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Hayır hata olmaz, onun kim olduğunu öğrenmekte daha hızlı davranmış oluruz sadece."
+ 1 string eng_Text = "No, it would not, then we would just learn about the reality of who he is faster."
+ 1 string fr_Text = "Non, ce ne serait pas le cas, alors nous apprendrions simplement la réalité de qui il est plus rapide."
+ 1 string ch_Text = "不，不会的，那样我们只会更快地了解到这个人的本质是什么。"
+ 1 string tr_Answer1 = "Hayır, sana güvenmiyorum."
+ 1 string eng_Answer1 = "No, I don't trust you."
+ 1 string fr_Answer1 = "Non, je ne te fais pas confiance."
+ 1 string ch_Answer1 = "不，我不信任你。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1405
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "N’oldu Pavlov. Beni mi özledin birkaç saatte? "
+ 1 string eng_Text = "What's up, Pavlov? Missed me in just a few hours?"
+ 1 string fr_Text = "Quoi de neuf, Pavlov? Je t’ai manqué en quelques heures ?"
+ 1 string ch_Text = "怎么了，巴甫洛夫？才几个小时就想我了？"
+ 1 string tr_Answer1 = "Hayır, sadece kendine dikkat et diyecektim."
+ 1 string eng_Answer1 = "No, just wanted to tell you to take care of yourself."
+ 1 string fr_Answer1 = "Non, je voulais juste te dire de prendre soin de toi."
+ 1 string ch_Answer1 = "不是，只是想跟你说照顾好自己。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1290
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Evet."
+ 1 string eng_Text = "Yeah."
+ 1 string fr_Text = "Ouais."
+ 1 string ch_Text = "好。"
+ 1 string tr_Answer1 = "Öyleyse sana bir iş birliği teklifi ediyorum. Frank’in evine gizlice girecek birisine ihtiyacım var. Ondan şüpheleniyorum. (Umarım kabul eder.)"
+ 1 string eng_Answer1 = "Then, I’m offering a job to you. I need someone to get in to Franks house secretly. I have suspicions on him. (I hope he accepts.)"
+ 1 string fr_Answer1 = "Alors, je t'offre un travail. J'ai besoin d' quelq'un pour entrer la maison de Frank secrètement. J'ai des soupçons contre lui. ( J'espère qu'il accepte. )"
+ 1 string ch_Answer1 = "那我给你找件事做吧。我需要一个人悄悄地进入弗兰克家。我很怀疑他。（我希望他能接受。）"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

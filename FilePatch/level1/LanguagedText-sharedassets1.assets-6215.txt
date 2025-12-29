@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1358
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Yaralı olduğuna göre bir şeyler yaşanmış. Ama amacına tam ulaşılmamış."
+ 1 string eng_Text = "Something has to have happened since you're wounded. But they didn't quite manage to do it."
+ 1 string fr_Text = "Il doit s'être passé quelque chose puisque tu es blessé. Mais ils n'ont pas tout à fait réussi à le faire."
+ 1 string ch_Text = "你受伤之后一定发生了什么事，但是他们没成功。"
+ 1 string tr_Answer1 = "Ölmemi mi bekliyordun Frank?!"
+ 1 string eng_Answer1 = "Were you expecting me to die Frank?!"
+ 1 string fr_Answer1 = "Tu t'attendais à ce que je meure Frank ?!"
+ 1 string ch_Answer1 = "你以为我会死吗，弗兰克？"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

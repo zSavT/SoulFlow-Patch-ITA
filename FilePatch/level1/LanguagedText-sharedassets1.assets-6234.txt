@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1425
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Bruce'u tanırım, kurnazdır ama kötü işlere bulaşmaz. İçini rahat tutabilirsin."
+ 1 string eng_Text = "I know Bruce, he's cunning but he won't get involved in bad things. Don't worry about it."
+ 1 string fr_Text = "Je sais Bruce, Il est rusé mais il ne s'impliquera pas dans de mauvaises situations. Ne t'inquiète pas pour ça."
+ 1 string ch_Text = "大卫：我知道布鲁斯，他是挺狡猾的一个人，但是他不会掺和进坏事里。你不必担心。"
+ 1 string tr_Answer1 = "Teşekkürler David ama son zamanlarda çok sakinleşmişti. Oldukça fazla hem de. Neyse, ben seni tutmayayım daha, görüşürüz."
+ 1 string eng_Answer1 = "Thanks David but he was really calm lately. Quite a lot. Anyways, I kept you for a long time, bye."
+ 1 string fr_Answer1 = "Merci David mais il était vraiment calme ces derniers temps. Assez souvent. Bref, je t'ai gardé depuis longtemps, au revoir."
+ 1 string ch_Answer1 = "谢谢你，大卫，但是他最近真的很低调，低调多了。就这样吧，我耽误你太长时间了，拜拜。"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

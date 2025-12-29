@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1263
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "T-tamam uzak dururum."
+ 1 string eng_Text = "O-Okay, I'll stay uninvolved."
+ 1 string fr_Text = "O-D ‘accord, je ne vais pas rentrer dans ces histoires."
+ 1 string ch_Text = "好……好吧，我不会多管闲事的。"
+ 1 string tr_Answer1 = "..."
+ 1 string eng_Answer1 = "..."
+ 1 string fr_Answer1 = "..."
+ 1 string ch_Answer1 = "..."
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

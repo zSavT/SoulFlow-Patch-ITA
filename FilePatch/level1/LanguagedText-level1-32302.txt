@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 3000
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Selam vermek, ruhların başka bir bedene geçebilmesini sağlar"
+ 1 string eng_Text = "Salutare permette alle anime di passare in un altro corpo"
+ 1 string fr_Text = "Le salut permet aux âmes de traverser dans un autre corps "
+ 1 string ch_Text = "敬礼让灵魂穿越到另一个身体"
+ 1 string tr_Answer1 = ""
+ 1 string eng_Answer1 = ""
+ 1 string fr_Answer1 = ""
+ 1 string ch_Answer1 = ""
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

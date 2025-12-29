@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1502
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Birçok kişi kurnaz ve kötü alışkanlıklara sahip olduğu için onu sevmez. Alkoliktir, insanlarla dalga geçmeyi sever. Rus göçmeni. Clara’yı, Rusya’da geçen gençliğindeki sevgilisine benzettiği için seviyor. Orta halli bir maddi duruma sahipken yakın zamanda oldukça zenginleşti. Yalan söylemekten çekinmez. Baskın bir karaktere sahip olmasına rağmen çok sakin davrandığı zamanlar da olur. Tom ile yakın zamanda iş arkadaşı oldular. Fakat birkaç gün sonra Tom, Pavlov’un evinde ölü bulundu. Bu olaydan sonra gözaltına alındı. Aynı gün serbest bırakıldı."
+ 1 string eng_Text = "Many people dislike him because of his sly nature and bad habits. Is an alcoholic, loves to make fun of people. Russian immigrant. Loves Clara because she looks like his lover from his youth spent in Russia. They have a gambling debt issue with William (Rose's brother). Had an average financial situation although he recently got substantially richer. Doesn't hesitate to lie. Though he has a dominant character, he does have times where he is laidback. Very recently they became colleagues with Tom. But after a few days, Tom was found dead in Pavlov's house. Was taken into custody after this incident. Released the same day."
+ 1 string fr_Text = "Beaucoup de gens ne l'aiment pas à cause de sa nature sournoise et de ses mauvaises habitudes. Est un alcoolique, aime se moquer des gens. Immigré russe. Aime Clara car elle ressemble à son amant de sa jeunesse passée en Russie. Ils ont un problème de dette de jeu avec William (le frère de Rose). Avait une situation financière moyenne bien qu'il se soit récemment considérablement enrichi. N'hésite pas à mentir. Bien qu'il ait un caractère dominant, il a des moments où il est décontracté. Très récemment, ils sont devenus collègues avec Tom. Mais après quelques jours, Tom a été retrouvé mort dans la maison de Pavlov. A été placé en garde à vue après cet incident. Sortie le même jour."
+ 1 string ch_Text = "由于他狡猾的天性和坏习惯，许多人都不喜欢他。是个酒鬼，喜欢取笑别人。俄罗斯移民。他喜欢克拉拉，因为她长得像他在俄罗斯时有过一段的情人。他们和威廉（萝丝的哥哥）有赌债问题。他的经济状况一般，尽管最近他变得富有多了。撒谎时脸不红心不跳。虽然他性格使然喜欢掌控全局，但他也有悠闲的时候。最近他们和汤姆成了同事。但几天后，汤姆被发现死在巴甫洛夫的家里。在这次事件之后被拘留了，同天被释放。"
+ 1 string tr_Answer1 = ""
+ 1 string eng_Answer1 = ""
+ 1 string fr_Answer1 = ""
+ 1 string ch_Answer1 = ""
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""

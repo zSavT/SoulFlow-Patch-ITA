@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1415
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 986
+ 1 string m_Name = ""
+ 1 string tr_Text = "Kes sesini Kai. Bir şey saçmaladığım yok. Hatta… Git artık buradan. Çok konuştun."
+ 1 string eng_Text = "Shut it Kai. I'm not talking nonsense. Actually… Leave already. You've talked enough."
+ 1 string fr_Text = "Tais-toi Kai. Je ne raconte pas n’importe quoi. En fait… Part déjà. Tu as assez parlé."
+ 1 string ch_Text = "闭嘴，凯。我没在说胡话。实际上……你走吧，你说的够多了。"
+ 1 string tr_Answer1 = "Ne?.."
+ 1 string eng_Answer1 = "What?…"
+ 1 string fr_Answer1 = "Quoi ?…"
+ 1 string ch_Answer1 = "什么？……"
+ 1 string tr_Answer2 = ""
+ 1 string eng_Answer2 = ""
+ 1 string fr_Answer2 = ""
+ 1 string ch_Answer2 = ""
